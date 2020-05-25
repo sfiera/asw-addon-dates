@@ -23,7 +23,7 @@ for game in sys.argv[1:]:
 
     found = {}
     for path in glob.glob(f"archive/{game}/*"):
-        with open(path) as f:
+        with open(path, encoding='macroman') as f:
             data = f.read()
         soup = bs4.BeautifulSoup(data, "html.parser")
         links = soup.find_all("a")
@@ -42,6 +42,8 @@ for game in sys.argv[1:]:
                 found[filepath] = missing[filepath]
                 found[filepath]["date"] = date
                 del(missing[filepath])
+            elif filepath in found:
+                pass  # found in multiple archives, that’s OK
             else:
                 print("WARNING: found unknown download %s" % filepath)
 
