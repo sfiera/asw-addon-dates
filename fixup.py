@@ -53,6 +53,9 @@ for game in sys.argv[1:]:
         print("%14s %s" % (v["date"], k))
 
     print()
-    print("STILL MISSING:")
-    for k, v in missing.items():
-        print("%14s %s" % (v["date"], k))
+    if missing:
+        print("STILL MISSING:")
+        for k, v in missing.items():
+            print("%14s %s" % (v["date"], k))
+    else:
+        print("ALL FOUND! YAY!")
