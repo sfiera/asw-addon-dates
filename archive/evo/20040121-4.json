@@ -1,0 +1,805 @@
+  <!doctype html public "-//W3C//DTD HTML 4.0 Transitional//EN">
+  <html>
+  <head><title>Ambrosia Software, Inc. -- EV Override Files</title></head>
+  <BODY BGCOLOR="#000000" TEXT="#CCCC00" LINK="#999933" ALINK="#999999" VLINK="#999999" LEFTMARGIN="0" TOPMARGIN="0" MARGINWIDTH="0" MARGINHEIGHT="0" BACKGROUND = "/images/ribbed_background.gif">
+
+<!-- BEGIN big placeholder table --><TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="49%" VALIGN="top" BACKGROUND="/images/new_navbar/bar_spacer.gif"> &nbsp; </TD><TD WIDTH="2%" VALIGN="top" ALIGN="center"><!-- BEGIN tabs --><TABLE WIDTH="600" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="600" ALIGN="center" VALIGN="top"><TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD VALIGN="bottom" ALIGN="center"><IMG WIDTH="72" HEIGHT="78" SRC="/images/new_navbar/ambrosia_logo_top.gif" ALT="Ambrosia" BORDER="0"></TD><TD WIDTH="500" VALIGN="middle" ALIGN="center">
+<TABLE WIDTH="100%" CELLSPACING="0" CELLPADDING="0" BORDER="0">
+<TR>
+<TD ALIGN="center" VALIGN="middle">
+<A HREF="/cgi-bin/showsell/showsell.pl?redirect=uplink_banner" TARGET="_blank"><IMG BORDER="0" ALT="Click here to try out Uplink!" SRC="http://www.AmbrosiaSW.com/banners/uplink_banner.gif"></A>
+</TD>
+</TR>
+</TABLE>
+</TD></TR></TABLE></TD></TR><TR><TD WIDTH="600" ALIGN="center" VALIGN="top"><IMG WIDTH="14" HEIGHT="3" SRC="/images/new_navbar/below_ambrosia_logo.gif" ALT="---" BORDER="0"><IMG WIDTH="72" HEIGHT="35" SRC="/images/new_navbar/ambrosia_logo_bottom.gif" ALT="Software" BORDER="0"><A TITLE="Read Ambrosia news, articles, web-based discussion, and info on upcoming products" onMouseOver="status='Ambrosia news, articles, web-based discussion, and info on upcoming products'; return true;" onMouseOut="status=''; return true;" HREF="http://www.AmbrosiaSW.com/news/"><IMG WIDTH="100" HEIGHT="35" SRC="/images/new_navbar/news_tab_inactive.gif" ALT="news" BORDER="0"></A><A TITLE="Purchase Ambrosia products, upgrades, CDs, and other paraphernalia" onMouseOver="status='Purchase Ambrosia products, upgrades, CDs, and other paraphernalia'; return true;" onMouseOut="status=''; return true;" HREF="https://secure.AmbrosiaSW.com/cgi-bin/store/hazel.cgi"><IMG WIDTH="100" HEIGHT="35" SRC="/images/new_navbar/store_tab_inactive.gif" ALT="store" BORDER="0"></A><A TITLE="Check out Ambrosia anti-productivity software (games)" onMouseOver="status='Check out Ambrosia anti-productivity software (games)'; return true;" onMouseOut="status=''; return true;" HREF="http://www.AmbrosiaSW.com/games/"><IMG WIDTH="100" HEIGHT="35" SRC="/images/new_navbar/games_tab_active.gif" ALT="*games" BORDER="0"></A><A TITLE="Get info on Ambrosia productivity software" onMouseOver="status='Get info on Ambrosia productivity software'; return true;" onMouseOut="status=''; return true;" HREF="http://www.AmbrosiaSW.com/utilities/"><IMG WIDTH="100" HEIGHT="35" SRC="/images/new_navbar/utilities_tab_inactive.gif" ALT="utilities" BORDER="0"></A><A TITLE="Get help from Ambrosia tech support, product updates, and technical info" onMouseOver="status='Get help from Ambrosia tech support, product updates, and technical info'; return true;" onMouseOut="status=''; return true;" HREF="http://www.AmbrosiaSW.com/support/"><IMG WIDTH="100" HEIGHT="35" SRC="/images/new_navbar/support_tab_inactive.gif" ALT="support" BORDER="0"></A><IMG WIDTH="14" HEIGHT="3" SRC="/images/new_navbar/below_ambrosia_logo.gif" ALT="---" BORDER="0"></TD></TR><!-- END tabs --><!-- BEGIN subbar --><TR><TD WIDTH="600" VALIGN="top"><A TITLE="Check out Ambrosia anti-productivity software (games)" onMouseOver="status='Check out Ambrosia anti-productivity software (games)'; return true;" onMouseOut="status=''; return true;" HREF="http://www.AmbrosiaSW.com/games/"><IMG WIDTH="100" HEIGHT="17" SRC="/images/new_navbar/main_bar_inactive.gif" ALT="main" BORDER="0"></A><A TITLE="View action-oriented games from Ambrosia" onMouseOver="status='View action-oriented games from Ambrosia'; return true;" onMouseOut="status=''; return true;" HREF="/games/action.html"><IMG WIDTH="100" HEIGHT="17" SRC="/images/new_navbar/action_bar_inactive.gif" ALT="action" BORDER="0"></A><A TITLE="View arcade-style games from Ambrosia" onMouseOver="status='View arcade-style games from Ambrosia'; return true;" onMouseOut="status=''; return true;" HREF="/games/arcade.html"><IMG WIDTH="100" HEIGHT="17" SRC="/images/new_navbar/arcade_bar_inactive.gif" ALT="arcade" BORDER="0"></A><A TITLE="View strategy/puzzle games from  Ambrosia" onMouseOver="status='View strategy/puzzle games from  Ambrosia'; return true;" onMouseOut="status=''; return true;" HREF="/games/strategy.html"><IMG WIDTH="100" HEIGHT="17" SRC="/images/new_navbar/strategy_bar_inactive.gif" ALT="strategy" BORDER="0"></A><A TITLE="Go to the main EV Override web page" onMouseOver="status='Go to the main EV Override web page'; return true;" onMouseOut="status=''; return true;" HREF="/games/evo/"><IMG WIDTH="200" HEIGHT="17" SRC="/images/new_navbar/evo_bar_active.gif" ALT="EV Override" BORDER="0"></A></TD></TR><!-- END subbar --></TABLE></TD><TD WIDTH="49%" VALIGN="top" BACKGROUND="/images/new_navbar/bar_spacer.gif"> &nbsp; </TD></TR></TABLE><!-- END big placeholder table -->  <TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+  <TR><TD BGCOLOR="#000000" ALIGN="left" VALIGN="top">
+  
+<font face="Geneva, Verdana, Arial" size="1"><blockquote><h2>Evo Files</h2></blockquote>
+
+<blockquote>View by: 
+<a href=./show.pl?product=evo&category=*&page=4&display=name>Name</a>
+<b>Date</b>
+<a href=./show.pl?product=evo&category=*&page=4&display=rating>Rating</a>
+<a href=./show.pl?product=evo&category=*&page=4&display=downloads>Downloads</a>
+<a href=./show.pl?product=evo&category=*&page=4&display=size>Size</a>
+</blockquote><blockquote><b>Newest Files, Page 4 of 17:</b></blockquote>
+
+<table width='100%' border=0 cellspacing=0 cellpadding=4>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=extra_outfits1.3.2.sit.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/extra_outfits1.3.2.sit.hqx?path=evo/plugins&file=extra_outfits1.3.2.sit.hqx'><b>extra outfits1.3.2</b></a> - 120 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Extra Outfits adds 13 new, balanced, outfits to the EVO universe. It includes an Auto-Eject System, (like that found in the original EV) 3 types of Armor, a slightly bigger regional map, and many other useful things.  (you'll have to download it to find out what!)  Version 1.3.2 has, among other things, better graphics and grammar, and includes many bug fixes.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>3/12/2002</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>74 (<a href="javascript:rateDlog('extra outfits1.3.2', 'evo', 'plugins', 'extra_outfits1.3.2.sit.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>2292 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/extra_outfits1.3.2.sit.hqx?path=evo/plugins&file=extra_outfits1.3.2.sit.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=NewTech8.sit.bin'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/NewTech8.sit.bin?path=evo/plugins&file=NewTech8.sit.bin'><b>NewTech8</b></a> - 2.23 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This is NewTech8!!! I've added MANY NEW WEAPONS, OUTFITS, SHIPS, COOL GRAPHICS and now YOU CAN SEE THE VOINIAN SHIPS' ARMOR LEVEL!!! Zampaman Plugs-)  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>3/8/2002</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>62 (<a href="javascript:rateDlog('NewTech8', 'evo', 'plugins', 'NewTech8.sit.bin', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>1949 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/NewTech8.sit.bin?path=evo/plugins&file=NewTech8.sit.bin'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=ANewGalaxy.sit'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/ANewGalaxy.sit?path=evo/plugins&file=ANewGalaxy.sit'><b>ANewGalaxy</b></a> - 1 k </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This plug-in I've started will be a completely new universe.  Also, I've found out a flawless way to create all new universes.  It's awesome, and it's a secret (for a little bit, then I'll let you all know).  By Rolland Smith (spydermahn@aol.com).  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>3/7/2002</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>50 (<a href="javascript:rateDlog('ANewGalaxy', 'evo', 'plugins', 'ANewGalaxy.sit', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>636 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/ANewGalaxy.sit?path=evo/plugins&file=ANewGalaxy.sit'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=Travelers_Superpack.sea'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Travelers_Superpack.sea?path=evo/plugins&file=Travelers_Superpack.sea'><b>Travelers Superpack</b></a> - 29 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> A hyperspace travelers dream!  The Travelerís Superpack is a collection of plugs meant to enhance hyperspace traveling in EVO.  Take years to jump thorugh hyperspace or only a day.  Physically speed up your jumping so you donít have to wait forever to get to your destination.  And a plug that makes it so you never have to worry about fuel ever again.  Just put the plugs you want to use in the EVO plugin folder.  These plugs have been tested on my computer and should be free of bugs.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>3/3/2002</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>60 (<a href="javascript:rateDlog('Travelers Superpack', 'evo', 'plugins', 'Travelers_Superpack.sea', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>1088 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Travelers_Superpack.sea?path=evo/plugins&file=Travelers_Superpack.sea'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=Hellscream'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Hellscream?path=evo/plugins&file=Hellscream'><b>Hellscream</b></a> - 72 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This is My First Plug For EVO And It may Have Some Bugs All it does is adds One ship for the Voinians it has no &quot;Other Names&quot; file so th name Of the ship  Won't appear. if You find any bugs E-mail me at Cambaker@ shaw.ca  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>2/25/2002</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>65 (<a href="javascript:rateDlog('Hellscream', 'evo', 'plugins', 'Hellscream', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>227 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Hellscream?path=evo/plugins&file=Hellscream'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=Star%20Wars.sea.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Star%20Wars.sea.hqx?path=evo/plugins&file=Star%20Wars.sea.hqx'><b>Star Wars</b></a> - 6.44 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This is a fix for the infamous circle of lasers and torpedoes spinning in a halo around the player.  The problem was caused by too many separate plugs in the Star Wars set.  I combined the separate plugs into one plug and it now works fine.  Problem solved.  This plug includes the resources from SW20 1.0, SW20 1.03 fix, •Extra Shipsƒ v.2, •OExtra Ships, Extra Ships Cheat and SW202 cheat.  The cheat resources were added last to ensure that their data was not overwritten, so this is the cheat version of the plug.  I have made no changes to the original resources other than to copy them all into one big plug and have tested it for a long time without any mishaps.  It's bug-free and it's now yours if you click the &quot;Get It&quot; link to the right!  Enjoy!   </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>2/25/2002</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>79 (<a href="javascript:rateDlog('Star Wars', 'evo', 'plugins', 'Star Wars.sea.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>0 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Star%20Wars.sea.hqx?path=evo/plugins&file=Star%20Wars.sea.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=lightningjump.sit.bin'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/lightningjump.sit.bin?path=evo/plugins&file=lightningjump.sit.bin'><b>lightningjump</b></a> - 4 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Lightning Jump is a simple utility-type plug-in for either Escape Velocity or EV Override.  This small but useful goodie physically speeds up your hyperjumps so that you're in the next system by the time your finger lifts off the 'J' key.  This does not affect time in the game clock.  This package includes both the EV and EVO versions of the plug-in.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>2/24/2002</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>71 (<a href="javascript:rateDlog('lightningjump', 'evo', 'plugins', 'lightningjump.sit.bin', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>1492 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/lightningjump.sit.bin?path=evo/plugins&file=lightningjump.sit.bin'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> utilities -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=MissionComputer_130_Ma850C6.gz'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/MissionComputer_130_Ma850C6.gz?path=evo/utilities&file=MissionComputer_130_Ma850C6.gz'><b>MissionComputer 130 Ma850C6.gz</b></a> - 1.99 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> (Mac OS X Edition) MissionComputer is a scenario editor for Escape Velocity and EV Override. The current version edits missions, descriptions, dudes, fleets, governments, and (on EV Override only) the year offset. This edition of MissionComputer is for Mac OS X and above.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>2/24/2002</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>80 (<a href="javascript:rateDlog('MissionComputer 130 Ma850C6.gz', 'evo', 'utilities', 'MissionComputer_130_Ma850C6.gz', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>328 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/MissionComputer_130_Ma850C6.gz?path=evo/utilities&file=MissionComputer_130_Ma850C6.gz'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> utilities -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=MissionComputer_130_Classic.sit'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/MissionComputer_130_Classic.sit?path=evo/utilities&file=MissionComputer_130_Classic.sit'><b>MissionComputer 130 Classic</b></a> - 1.17 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> (Classic Edition) MissionComputer is a scenario editor for Escape Velocity and EV Override. The current version edits missions, descriptions, dudes, fleets, governments, and (on EV Override only) the year offset. This edition of MissionComputer is for systems prior to Mac OS X.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>2/24/2002</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>100 (<a href="javascript:rateDlog('MissionComputer 130 Classic', 'evo', 'utilities', 'MissionComputer_130_Classic.sit', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>851 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/MissionComputer_130_Classic.sit?path=evo/utilities&file=MissionComputer_130_Classic.sit'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=EVOCTSimulator.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/EVOCTSimulator.hqx?path=evo/plugins&file=EVOCTSimulator.hqx'><b>EVOCTSimulator</b></a> - 905 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This is the test version of my upcoming plug-in. This test features twelve unique ships, eight missions, and a new station. The full version will have 35+ unique ships (26 are done).  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>2/23/2002</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>60 (<a href="javascript:rateDlog('EVOCTSimulator', 'evo', 'plugins', 'EVOCTSimulator.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>420 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/EVOCTSimulator.hqx?path=evo/plugins&file=EVOCTSimulator.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=Ultima_103.sea.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Ultima_103.sea.hqx?path=evo/plugins&file=Ultima_103.sea.hqx'><b>Ultima 103</b></a> - 1.08 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Ultima is a medium-sized plug-in which throws you into the heart of a struggle between a budding military government, the Ultima, and the renegades who plague their systems. You can help Ultima in many ways: as a trader, set up a collection of tourist planets and make tons of money. Become a fighter pilot and you will gain many classified upgrades, weapons, and ships… if you can prove your combat ability. Version 1.0.3 fixes a few minor bugs and inconsistencies and tweaks the Ultima Warship, Scarab and Fighter so that you can hire them as escorts. If you find a bug, send a bug report to: alethiometer@earthlink.net.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>2/16/2002</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>65 (<a href="javascript:rateDlog('Ultima 103', 'evo', 'plugins', 'Ultima_103.sea.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>633 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Ultima_103.sea.hqx?path=evo/plugins&file=Ultima_103.sea.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=The_Assailant_Preview.sit'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/The_Assailant_Preview.sit?path=evo/plugins&file=The_Assailant_Preview.sit'><b>The Assailant Preview</b></a> - 83 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> A preview for the upcoming EVO plug The Assailant. It's a small file so take a look. It's worth the download time.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>2/15/2002</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>20 (<a href="javascript:rateDlog('The Assailant Preview', 'evo', 'plugins', 'The_Assailant_Preview.sit', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>151 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/The_Assailant_Preview.sit?path=evo/plugins&file=The_Assailant_Preview.sit'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=Preview.sit'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Preview.sit?path=evo/plugins&file=Preview.sit'><b>Preview</b></a> - 1 k </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This is just a preview of my upcoming plugin-EV meets EVO (doesn't the name give it away?).  It is a Simpletext file and requires Stuffit Expander™ to open.  Look forward to the release of this plugin!  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>2/5/2002</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>20 (<a href="javascript:rateDlog('Preview', 'evo', 'plugins', 'Preview.sit', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>78 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Preview.sit?path=evo/plugins&file=Preview.sit'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=refundplug-in.sea.bin'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/refundplug-in.sea.bin?path=evo/plugins&file=refundplug-in.sea.bin'><b>refundplug-in</b></a> - 15 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Refund Plug-In 1.0.0 makes unsellable, expensive items which takes up alot of mass, or cargo space available to be sold back to corresponding outfitting shops. This plug-in also lets you sell back cargo pods and mass expansions too. (sorry if someone had thought of it)  Date release 2/19/02  by Coraxus  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>2/5/2002</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>60 (<a href="javascript:rateDlog('refundplug-in', 'evo', 'plugins', 'refundplug-in.sea.bin', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>303 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/refundplug-in.sea.bin?path=evo/plugins&file=refundplug-in.sea.bin'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> utilities -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=plugmakerocarbon.sit.bin'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/plugmakerocarbon.sit.bin?path=evo/utilities&file=plugmakerocarbon.sit.bin'><b>plugmakerocarbon</b></a> - 55 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Tired of typing in the codes for an evo plugin into resedit?  Now you can make them fast and without the hassle.  This is a carbon version of Plugmaker for evo.  EMAIL: whocares@e-garfield.com  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>2/1/2002</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>40 (<a href="javascript:rateDlog('plugmakerocarbon', 'evo', 'utilities', 'plugmakerocarbon.sit.bin', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>801 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/plugmakerocarbon.sit.bin?path=evo/utilities&file=plugmakerocarbon.sit.bin'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=EnhancedEVO.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/EnhancedEVO.hqx?path=evo/plugins&file=EnhancedEVO.hqx'><b>EnhancedEVO</b></a> - 37 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This is better then the first one I made.  It makes UE stronger and they only use blaze weapons and hunter missiles.  Have Fun!  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>1/30/2002</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>46 (<a href="javascript:rateDlog('EnhancedEVO', 'evo', 'plugins', 'EnhancedEVO.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>101 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/EnhancedEVO.hqx?path=evo/plugins&file=EnhancedEVO.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=evcenhanced101.sit.bin'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/evcenhanced101.sit.bin?path=evo/plugins&file=evcenhanced101.sit.bin'><b>evcenhanced101</b></a> - 2.00 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> EVC Enhanced for Override is two things. It is a port of Matt Burch's Escape Velocity universe to an EVO plug-in file. It also has another file, which enhances the port for features found in Override 1.0.2. Plug-in is version 1.0.1. Written by Gavin Dow, gdstarkiller@yahoo.com. &quot;Starkiller&quot; on the ASW webboards.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>1/29/2002</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>60 (<a href="javascript:rateDlog('evcenhanced101', 'evo', 'plugins', 'evcenhanced101.sit.bin', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>395 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/evcenhanced101.sit.bin?path=evo/plugins&file=evcenhanced101.sit.bin'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=Enhanced%20EVO.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Enhanced%20EVO.hqx?path=evo/plugins&file=Enhanced%20EVO.hqx'><b>Enhanced EVO</b></a> - 36 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This Add On enhances the ships by giving them more weapons.  Please rate all add ons you down load!!!                          </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>1/25/2002</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>66 (<a href="javascript:rateDlog('Enhanced EVO', 'evo', 'plugins', 'Enhanced EVO.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>0 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Enhanced%20EVO.hqx?path=evo/plugins&file=Enhanced%20EVO.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=advance.sit.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/advance.sit.hqx?path=evo/plugins&file=advance.sit.hqx'><b>advance</b></a> - 894 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Advance 1.1  Tired of all those übership plug-ins and cheats?  Good.  Advance is the plug-in for you.  This plug-in is intended to bring some new ships into the game to enrichen it rather than to spoil its beautiful balance.  First and foremost, the additions are meant to be REALISTIC, to suit their governments well, and to keep the game balance and style intact.  After two years of lying dormant on my HD, the plug-in has now reached a satisfactory state of completeness which may or may not be augmented in further versions.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>1/14/2002</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>64 (<a href="javascript:rateDlog('advance', 'evo', 'plugins', 'advance.sit.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>1497 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/advance.sit.hqx?path=evo/plugins&file=advance.sit.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> guides -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=ResEdit%20Documentation.sit.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/ResEdit%20Documentation.sit.hqx?path=evo/guides&file=ResEdit%20Documentation.sit.hqx'><b>ResEdit Documentation</b></a> - 706 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> As far as I know, there is and has been no reference or manual on the subject of using ResEdit for EVO plug-in development. Well, one seems to be here now, doesn't it? This is an Adobe Acrobat PDF file, fully bookmarked, making it useful for both a reference and a manual/tutorial. It gives an introduction to using ResEdit for EV/O plug-in development for the beginner, teaching them every skill they'll need to make a plug-in in ResEdit. This can be used for EV or EVO, though it was written with EVO in mind (A word of warning: don't attempt to use this for writing &quot;real&quot; macintosh programs. It covers plenty for plug-ins, but barely anything for Mac programming. If you attempt it, your computer will die and so will you, when you look upon the charred remnants of your Mac.). The documentation is actually titled &quot;The Plug-in Developer's Guide to ResEdit&quot;, but I couldn't fit it in the file name. A copy of ResEdit is included with the documentation. If you have suggestions, questions, complaints, etc., email me at: alethiometer@earthlink.net  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>1/13/2002</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>75 (<a href="javascript:rateDlog('ResEdit Documentation', 'evo', 'guides', 'ResEdit Documentation.sit.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>0 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/ResEdit%20Documentation.sit.hqx?path=evo/guides&file=ResEdit%20Documentation.sit.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=NewTech7.sit.bin'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/NewTech7.sit.bin?path=evo/plugins&file=NewTech7.sit.bin'><b>NewTech7</b></a> - 2.14 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This is NewTech7!!! I've added MANY NEW SYSTEMS, MANY NEW OUTFITS, WEAPONS, SHIPS and COOL GRAPHICS!!! DOWNLOAD IT NOW!!! Zampaman Plugs  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>1/11/2002</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>72 (<a href="javascript:rateDlog('NewTech7', 'evo', 'plugins', 'NewTech7.sit.bin', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>1802 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/NewTech7.sit.bin?path=evo/plugins&file=NewTech7.sit.bin'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> utilities -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=pilotConverter.sit.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/pilotConverter.sit.hqx?path=evo/utilities&file=pilotConverter.sit.hqx'><b>pilotConverter</b></a> - 1.04 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Something that should have been made when EVO(Escape Velocity Override) first came out: Pilot Converter. Pilot Converter reads pilot files from the original Escape Velocity and converts the data to Escape Velocity:Override pilot files. Now you don't need to make a new pilot if you want to keep playing in the original EV universe using one of the EVC (Escape Velocity Classic)plugins made for use with EVO.   </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>1/10/2002</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>60 (<a href="javascript:rateDlog('pilotConverter', 'evo', 'utilities', 'pilotConverter.sit.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>409 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/pilotConverter.sit.hqx?path=evo/utilities&file=pilotConverter.sit.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> utilities -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=persMaker.sit.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/persMaker.sit.hqx?path=evo/utilities&file=persMaker.sit.hqx'><b>persMaker</b></a> - 1.10 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Populate your EVO game with real world players! PersMaker 1.0 allows EVO plugin developers to automatically generate plugins containing përs resources based on pre-existing EVO pilot files. Simply drop a pilot file--or a bunch of pilot files--onto the application icon and PersMaker will make a plugin. PersMaker takes ship upgrades and dominated spobs and player aggression into account when generating the plugin, resulting in AI përs ships that are similar to their human players.   </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>1/10/2002</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>70 (<a href="javascript:rateDlog('persMaker', 'evo', 'utilities', 'persMaker.sit.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>450 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/persMaker.sit.hqx?path=evo/utilities&file=persMaker.sit.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=Aftermath%20Preview.sit.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Aftermath%20Preview.sit.hqx?path=evo/plugins&file=Aftermath%20Preview.sit.hqx'><b>Aftermath Preview</b></a> - 144 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This is a sneak-peek preview of a plug that changes everything in EVO, very much like B5 or SW2. It has a great plot:  Humanity has found a new enemy: the Nameless. This creatures exist in 7  dimensions, and can be seen only sometimes. They have wiped out the voinans and the crescent, but for some reason, they let humanity fight back, like if they were challenging humans. They destroy earth, for starters... In the middle of this war, you and you spaceship is left crippled and abandoned. Desesperate, you and your crew enter the crio-chambers, and set course for the Valos system. Somewhere along the way, the Navigational computer shuts down, leaving your ship to drift silently without destination... When the crio-chambers wake you up, 10,000 years from now, humanity has won, but the price to survive is beyond your wildest dreams...  A plug which changes everything, new intro, new intro music, new universe, new ships, new weapons, new nebulas, new dudes, new missions, new goverments, and new dangers... Expected release date: 16 of january. By Tomas Bianchi, alias &quot;Tarsonis&quot;  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>1/9/2002</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>46 (<a href="javascript:rateDlog('Aftermath Preview', 'evo', 'plugins', 'Aftermath Preview.sit.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>0 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Aftermath%20Preview.sit.hqx?path=evo/plugins&file=Aftermath%20Preview.sit.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=Voinian.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Voinian.hqx?path=evo/plugins&file=Voinian.hqx'><b>Voinian</b></a> - 7.76 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This plug combines Ken's Voinian War with other plugs and elements of other plugs to make a single plug with no bugs. Now you can use Meowx Design Studio's MAGMA with a bigger map window, the weapons fix plug, DispArmorPercent, and have some of the better ships from Star Wars 2.03 and Babylon 5 all as part of one plug. I admire the craftsmanship and creativity of many plug designers and would like to be able to use each of their plugs all the time, but conflicts inevitably preclude this possibility. So I chose a few of my favorites and assigned new resource IDs to cut-and-paste those favorites into my Voinian War plug to enhance gameplay. Most of the features in this plug are not my work, but the labors of others. I simply brought several of the best together into one package so that the EVO community could enjoy the benefits of many great plug designers simultaneously without problems. I love the result and I know that you will also. Read the description of Ken's Voinian War for a description of the basic plug, and now imagine it with better graphics and the maximum of 64 ship classes and several other enhancements. Enjoy!  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>1/5/2002</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>72 (<a href="javascript:rateDlog('Voinian', 'evo', 'plugins', 'Voinian.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>1445 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Voinian.hqx?path=evo/plugins&file=Voinian.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=Ultima%201.0.2.sea.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Ultima%201.0.2.sea.hqx?path=evo/plugins&file=Ultima%201.0.2.sea.hqx'><b>Ultima 1.0.2</b></a> - 1.08 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Ultima is a medium-sized plug-in which throws you into the heart of a struggle between a budding military government, the Ultima, and the renegades who plague their systems. You can help Ultima in many ways: as a trader, set up a collection of tourist planets and make tons of money become a fighter pilot and you will gain many classified upgrades, weapons, and ships… if you can prove your combat ability. Version 1.0.2 doesn't fix any bugs, as none could be found, but it does tweak a few things—such as making the Ultima Fighter and the Scarab 18% faster. If you find a bug, send a bug report to: alethiometer@earthlink.net.   </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>1/4/2002</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>60 (<a href="javascript:rateDlog('Ultima 1.0.2', 'evo', 'plugins', 'Ultima 1.0.2.sea.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>0 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Ultima%201.0.2.sea.hqx?path=evo/plugins&file=Ultima%201.0.2.sea.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=IotheShuttle.sit'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/IotheShuttle.sit?path=evo/plugins&file=IotheShuttle.sit'><b>IotheShuttle</b></a> - 33 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> I bet you've all heard the &quot;It adds one new ship&quot; line a million times before. This one is a little different, because I doubt any of you will use it. It adds the Iothe Shuttle, a much more powerful shuttle which is, in all respects, far better than the normal shuttle you begin the game with. This is version 1 of the plug, so for the 50 or so people who downloaded it (thanks), you will see a marked improvement over the hunk of horse  that the beta version was. Send any info to dutchie@ix.net.nz dutchie 1/1/02  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>1/1/2002</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>40 (<a href="javascript:rateDlog('IotheShuttle', 'evo', 'plugins', 'IotheShuttle.sit', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>366 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/IotheShuttle.sit?path=evo/plugins&file=IotheShuttle.sit'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=Kens%20Voinian%20War.sit.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Kens%20Voinian%20War.sit.hqx?path=evo/plugins&file=Kens%20Voinian%20War.sit.hqx'><b>Kens Voinian War</b></a> - 1.22 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Adds 7 ships, several outfits and makes hidden outfits available everywhere outfits are sold. Features instant warp, a larger map viewing window, improved interface graphics like better buttons and targeting displays, and eliminates special missions incompatible with the new storyline. The new storyline: you are a popular war hero called upon to defend the people from a Voinian invasion. The Voinians are much tougher, the dreadnought is everywhere, and the bounty hunter has a souped-up dreadnought and missiles with your name on them! You will need the new outfits if you hope to make Voinia pay tribute, guaranteed! This plug has no known bugs even after hundreds of hours of play, but it is incompatible with plugs that add other outfits or ships. This plug is completely compatible with Meowx Design Studio's MAGMA v.2.01 (I never play EVO without it)!   </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>12/27/2001</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>71 (<a href="javascript:rateDlog('Kens Voinian War', 'evo', 'plugins', 'Kens Voinian War.sit.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>0 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Kens%20Voinian%20War.sit.hqx?path=evo/plugins&file=Kens%20Voinian%20War.sit.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=Barbarian1prelude.bin'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Barbarian1prelude.bin?path=evo/plugins&file=Barbarian1prelude.bin'><b>Barbarian1prelude</b></a> - 1.95 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Barbarian1 Prelude is a teaser plug showcasing some graphics work for my work in progress, Barbarian1, a full universe plug replacing everything, right down to the button interface. This plug includes new music, splash screen, intro text(setting the stage for the finished plug), 10 ships, 11 weapons, and 11 new planet graphics. Please respond with comments or ideas (you have to read the &quot;Read Me&quot; to figure out where to send the comment, ha ha).  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>12/24/2001</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>30 (<a href="javascript:rateDlog('Barbarian1prelude', 'evo', 'plugins', 'Barbarian1prelude.bin', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>367 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Barbarian1prelude.bin?path=evo/plugins&file=Barbarian1prelude.bin'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=VariousEvoTweaks.sit'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/VariousEvoTweaks.sit?path=evo/plugins&file=VariousEvoTweaks.sit'><b>VariousEvoTweaks</b></a> - 114 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Various little tweaks that I have found improve the EVO playing experience. I expect that functionally similar plugins are available, but perhaps somebody will find these useful. I have no idea if they will be compatible with other EVO plugins. Contains:  Hyper Buster -- makes hyperjumps take less time. I don't like waiting for half an hour to make a cross-galaxy trip, and I think adding extra links is not the solution. This doesn't interfere with the game at all just makes it a little more fun to play. Hyper UltraBuster -- same as the last, but makes jumps even faster. FE missions to mission computer -- puts Frontier Express missions on the mission computer. I don't like them coming up in the spaceport bar Faster Fuel Recharge -- I hate waiting around for fuel scoops to recharge I don't think the delay adds much to the game. This will make them go a little faster. Hector Payback -- I don't really condone not paying shareware fees, but this adds cheat missions available at Earth so you can get back the money that Captain Hector steals from you. It sucks having to postpone a big purchase because of a Hector theft. Just take off and land and you'll get the money it says. Small Pictures -- for plugin developers, this may save you ten minutes in editing EVO and EV outfits or making them available in other plugins. I separated out all the little outfit and ship pictures so you can copy them in to other universes' outfitters and shipyards easily.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>12/24/2001</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>45 (<a href="javascript:rateDlog('VariousEvoTweaks', 'evo', 'plugins', 'VariousEvoTweaks.sit', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>644 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/VariousEvoTweaks.sit?path=evo/plugins&file=VariousEvoTweaks.sit'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=Ultima%201.0.1.sea.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Ultima%201.0.1.sea.hqx?path=evo/plugins&file=Ultima%201.0.1.sea.hqx'><b>Ultima 1.0.1</b></a> - 1.08 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Ultima is a medium-small plug-in which throws you into the heart of a struggle between a budding military government, the Ultima, and the renegades who plague their systems. You can help Ultima in many ways: as a trader, set up a collection of tourist planets and make tons of money become a fighter pilot and you will gain upgrades and weapons… if you can prove your combat ability. Version 1.0.1 fixes many bugs and typos which were in 1.0, as well as adding more missions, weapons, and systems than there were previously.  While Ultima will never match anything like Frozen Heart, it certainly beats the plain old &quot;two new ships, one new outfit, and one new mission&quot; addons. If you find a bug, send a bug report to: alethiometer@earthlink.net.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>12/24/2001</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>66 (<a href="javascript:rateDlog('Ultima 1.0.1', 'evo', 'plugins', 'Ultima 1.0.1.sea.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>0 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Ultima%201.0.1.sea.hqx?path=evo/plugins&file=Ultima%201.0.1.sea.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> utilities -  <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&file=MC100Carbon.dmg.gz'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/MC100Carbon.dmg.gz?path=evo/utilities&file=MC100Carbon.dmg.gz'><b>MC100Carbon.dmg.gz</b></a> - 915 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> MissionComputer for EV Override 1.0.0, Mac OS X Version MissionComputer is a new mission editor for EV Override. It does not replace traditional plug-in editing tools such as ResEdit, but complements them to provide an easier way of editing missions, descriptions, commodities, and the game's year offset. It also provides an easier way to look up the resource IDs needed when setting up plug-ins. This version of MissionComputer is a Carbon application designed for Apple's next-generation operating system Mac OS X. It may also function under certain versions of Mac OS 8.x and 9.x, but the archive is built to be opened under Mac OS X, and users of older operating systems are advised to use the Classic version.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>12/23/2001</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>100 (<a href="javascript:rateDlog('MC100Carbon.dmg.gz', 'evo', 'utilities', 'MC100Carbon.dmg.gz', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>156 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/MC100Carbon.dmg.gz?path=evo/utilities&file=MC100Carbon.dmg.gz'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+</table>
+
+<BLOCKQUOTE><b>
+Result Pages: <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&page=3'>&lt;&lt; Previous</a> <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&page=1'>1</a> <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&page=2'>2</a> <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&page=3'>3</a> 4</a> <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&page=5'>5</a> <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&page=6'>6</a> <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&page=7'>7</a> <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&page=8'>8</a> <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&page=9'>9</a> <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&page=10'>10</a> <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&page=11'>11</a> <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&page=12'>12</a> <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&page=13'>13</a> <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&page=14'>14</a> <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&page=15'>15</a> <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&page=16'>16</a> <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&page=17'>17</a> <a href='/cgi-bin/vftp/show.pl?product=evo&category=*&display=date&page=5'>Next &gt;&gt;</a>
+</b></blockquote><script language="JavaScript">
+//<!--
+function sendDlog () {
+    var winProps = 'toolbar=0,resizable=1,scrollbars=1,location=0,directories=0,menubar=0,width=620,height=400';
+    var winName = ('sendDlog');
+    var w = window.open ('', winName, winProps);
+	    
+    w.document.close();
+
+    w.document.writeln ('<head><title>Submit a File</title></head><BODY BGCOLOR="#FFFFFF" BACKGROUND = "/images/ribbed_background.gif">');
+
+w.document.writeln ('<CENTER>');
+w.document.writeln ('<TABLE BORDER="0" CELLPADDING="8" BORDER="0" CELLSPACING="0">');
+w.document.writeln ('<TR>');
+w.document.writeln ('<TD ALIGN="center" VALIGN="middle">');
+w.document.writeln ('<IMG SRC="/images/buttons/1button.gif" WIDTH="55" HEIGHT="55" BORDER="0" ALT="1">');
+w.document.writeln ('</TD>');
+w.document.writeln ('<TD ALIGN="left" VALIGN="top">');
+w.document.writeln ('<FONT SIZE="4" FACE="Helvetica" color="#000000">');
+w.document.writeln ('<B>Please test and proofread the files you\'re submitting</B>');
+w.document.writeln ('</FONT><BR>');
+w.document.writeln ('<FONT SIZE="1" FACE="Geneva, Arial, Helvetica" color="#000000">');
+w.document.writeln ('Keep in mind that thousands of people may be downloading and using the files you submit here.  Try to present yourself as best you can by testing your submission on a number of machines, proof-reading any text, and perhaps having others do a sanity-check on it before you submit it.  It\'s far easier to catch mistakes ahead of time than to try to correct them after the fact.<BR>');
+w.document.writeln ('</FONT>');
+w.document.writeln ('</TD>');
+w.document.writeln ('</TR>');
+w.document.writeln ('<TR>');
+w.document.writeln ('<TD ALIGN="center" VALIGN="middle">');
+w.document.writeln ('<IMG SRC="/images/buttons/2button.gif" WIDTH="55" HEIGHT="55" BORDER="0" ALT="2">');
+w.document.writeln ('</TD>');
+w.document.writeln ('<TD ALIGN="left" VALIGN="top">');
+w.document.writeln ('<FONT SIZE="4" FACE="Helvetica" color="#000000">');
+w.document.writeln ('<B>Compress your files with Stuffit or Compact Pro before submitting</B>');
+w.document.writeln ('</FONT><BR>');
+w.document.writeln ('<FONT SIZE="1" FACE="Geneva, Arial, Helvetica" color="#000000">');
+w.document.writeln ('You must use a program such as <A HREF="http://www.aladdinsys.com/expander/expander_mac.html">StuffIt</A> or <A HREF="http://hyperarchive.lcs.mit.edu/HyperArchive/Archive/cmp/compact-pro-151.hqx">Compact Pro</A> to compress your files before you can submit them.  Files compressed with StuffIt should be suffixed with <B>.sit</B>, files compressed with Compact Pro should be suffixed with <B>.cpt</B>, and self-extracting archives created by either program should be suffixed with <B>.sea</B>.<BR>');
+w.document.writeln ('</FONT>');
+w.document.writeln ('</TD>');
+w.document.writeln ('</TR>');
+w.document.writeln ('<TR>');
+w.document.writeln ('<TD ALIGN="center" VALIGN="middle">');
+w.document.writeln ('<IMG SRC="/images/buttons/3button.gif" WIDTH="55" HEIGHT="55" BORDER="0" ALT="3">');
+w.document.writeln ('</TD>');
+w.document.writeln ('<TD ALIGN="left" VALIGN="top">');
+w.document.writeln ('<FONT SIZE="4" FACE="Helvetica" color="#000000">');
+w.document.writeln ('<B>Use MacBinary or HQX encoding on your files before submitting them</B>');
+w.document.writeln ('</FONT><BR>');
+w.document.writeln ('<FONT SIZE="1" FACE="Geneva, Arial, Helvetica" color="#000000">');
+w.document.writeln ('After you\'ve compressed your files as outlined above, please encode them using a program like <A HREF="http://hyperarchive.lcs.mit.edu/HyperArchive/Archive/cmp/mac-binary-101.hqx">MacBinary</A> or <A HREF="http://hyperarchive.lcs.mit.edu/HyperArchive/Archive/cmp/binhex-50.hqx">BinHex</A> (StuffIt and other products can also HQX-encode files) before you submit them.  This will allow others to download and decompress your files more easily and reduce the risk of the archives being corrupted in transit.  MacBinary-encoded files should be suffixed with <B>.bin</B>, HQX-encoded files should be suffixed with <B>.hqx</B>.<BR>');
+w.document.writeln ('</FONT>');
+w.document.writeln ('</TD>');
+w.document.writeln ('</TR>');
+w.document.writeln ('<TR>');
+w.document.writeln ('<TD ALIGN="center" VALIGN="middle">');
+w.document.writeln ('<IMG SRC="/images/buttons/4button.gif" WIDTH="55" HEIGHT="55" BORDER="0" ALT="4">');
+w.document.writeln ('</TD>');
+w.document.writeln ('<TD ALIGN="left" VALIGN="top">');
+w.document.writeln ('<FONT SIZE="4" FACE="Helvetica" color="#000000">');
+w.document.writeln ('<B>Enter a good name and description for your submission</B>');
+w.document.writeln ('</FONT><BR>');
+w.document.writeln ('<FONT SIZE="1" FACE="Geneva, Arial, Helvetica" color="#000000">');
+w.document.writeln ('Try to give your submission an appropriate name (eg <B>MyCoolPlugin.sit.bin</B> -- avoid the use of spaces, quotes, apostrophes, and other non-alphanumeric characters), and a description that is verbose enough to give people a good idea what the file is about, but also succinct enough that people will be able to read it quickly and easily.  Including a version number and/or release date, as well as the author\'s name in the description is helpful, too.<BR>');
+w.document.writeln ('</FONT>');
+w.document.writeln ('</TD>');
+w.document.writeln ('</TR>');
+w.document.writeln ('<TR>');
+w.document.writeln ('<TD ALIGN="left" VALIGN="top" COLSPAN="2">');
+w.document.writeln ('<FONT SIZE="1" FACE="Geneva, Arial, Helvetica" color="#000000">');
+w.document.writeln ('Once you\'ve done all that, click the <B>Submit</B> button below, and away she goes!  Once your file has been submitted, it will be reviewed by a site ');
+w.document.writeln ('administrator.  After review the admin will make your file available for ');
+w.document.writeln ('download in the appropriate directory of the add ons page.  ');
+w.document.writeln ('If you don\'t see your file right away, please be patient.  Thanks!');
+w.document.writeln ('</FONT>');
+w.document.writeln ('</TD>');
+w.document.writeln ('</TR>');
+w.document.writeln ('</TABLE>');
+w.document.writeln ('</CENTER>');
+    w.document.writeln ('<font face="Geneva, Verdana, Arial" size="1">');
+
+    w.document.writeln ('<form enctype="multipart/form-data" action=http://www.ambrosiasw.com/cgi-bin/vftp/upload.pl method=post>');
+    w.document.writeln ('<p><B>File:</B> <input name=sentfile type=file></p>');
+    w.document.writeln ('<p><b>Description</b>:</p>'); 
+    w.document.writeln ('<p><textarea cols=90 rows=8 name=description autowrap>');
+    w.document.writeln ('</textarea></p>'); 
+    w.document.writeln ('<p>For this product: <select name=target>'); 
+    w.document.writeln ('<option  value=aki>aki');
+    w.document.writeln ('<option  value=apeiron>apeiron');
+    w.document.writeln ('<option  value=ares>ares');
+    w.document.writeln ('<option  value=avara>avara');
+    w.document.writeln ('<option  value=barrack>barrack');
+    w.document.writeln ('<option  value=bt>bt');
+    w.document.writeln ('<option  value=chiral>chiral');
+    w.document.writeln ('<option  value=coldstone>coldstone');
+    w.document.writeln ('<option  value=colorswitch>colorswitch');
+    w.document.writeln ('<option  value=cythera>cythera');
+    w.document.writeln ('<option  value=dr>dr');
+    w.document.writeln ('<option  value=eclipse>eclipse');
+    w.document.writeln ('<option  value=ev>ev');
+    w.document.writeln ('<option  value=evn>evn');
+    w.document.writeln ('<option selected value=evo>evo');
+    w.document.writeln ('<option  value=ferazel>ferazel');
+    w.document.writeln ('<option  value=harry>harry');
+    w.document.writeln ('<option  value=maelstrom>maelstrom');
+    w.document.writeln ('<option  value=mr>mr');
+    w.document.writeln ('<option  value=pog>pog');
+    w.document.writeln ('<option  value=poppop>poppop');
+    w.document.writeln ('<option  value=ragnarok>ragnarok');
+    w.document.writeln ('<option  value=slithereens>slithereens');
+    w.document.writeln ('<option  value=snapzpro>snapzpro');
+    w.document.writeln ('<option  value=snapzprox>snapzprox');
+    w.document.writeln ('<option  value=swoop>swoop');
+    w.document.writeln ('<option  value=uplink>uplink');
+    w.document.writeln ("</select><input type=submit value=Submit></p></form></body>");
+    w.document.close();
+    return;
+    }
+
+function rmmvDlog (cleanfile, product, category, file) {
+    var winProps = 'toolbar=0,location=0,directories=0,menubar=0,width=300,height=120';
+    var winName = ('rmmvDlog');
+    var w = window.open ('', winName, winProps);
+    w.document.close();
+    w.document.writeln ('<head><title>Move or Delete "'+cleanfile+'"</title></head><body bgcolor=#000000 link=#999933 alink=#999999 vlink=#999999 text=#CCCC00 background="">');
+    w.document.writeln ('<font face="Geneva, Verdana, Arial" size="1"><b>Move or Delete "'+cleanfile+'"</b>');
+    w.document.writeln ('<form action="http://www.ambrosiasw.com/cgi-bin/vftp/rm-mv.pl" method=post>');
+    w.document.writeln ('<input type=hidden name=product value="'+product+'">'); 
+    w.document.writeln ('<input type=hidden name=category value="'+category+'">'); 
+    w.document.writeln ('<input type=hidden name=file value="'+file+'">'); 
+    w.document.writeln ('<p>Password: <input type=password name=pass size=8></p>'); 
+    w.document.writeln ('<select name=target><option value=remove>Delete'); 
+    w.document.writeln ('<option value=cheats>cheats');
+    w.document.writeln ('<option value=essentials>essentials');
+    w.document.writeln ('<option value=guides>guides');
+    w.document.writeln ('<option value=plugins>plugins');
+    w.document.writeln ('<option value=utilities>utilities');
+    w.document.writeln ('</select>'); 
+    w.document.writeln ('<input type=submit value="Do It"></form></body></html>');
+    w.document.close();
+    return;
+    }
+
+function rateDlog (cleanfile, product, category, file, admin) {
+    var winProps = 'toolbar=0,location=0,directories=0,menubar=0,width=220,height=120';
+    var winName = ('rateDlog');
+    var w = window.open ('', winName, winProps);
+    w.document.close();
+    w.document.writeln ('<head><title>Rate "'+cleanfile+'"</title></head><body bgcolor=#000000 link=#999933 alink=#999999 vlink=#999999 text=#CCCC00 background="">');
+    w.document.writeln ('<font face="Geneva, Verdana, Arial" size="1"><b>Rate "'+cleanfile+'"</b>');
+    w.document.writeln ('<form action="http://www.ambrosiasw.com/cgi-bin/vftp/rating.pl" method=post>');
+    w.document.writeln ('<input type=hidden name=product value="'+product+'">'); 
+    w.document.writeln ('<input type=hidden name=category value="'+category+'">'); 
+    w.document.writeln ('<input type=hidden name=file value="'+file+'">'); 
+    w.document.writeln ('<p><select name=vote>'); 
+    w.document.writeln ('<option value="">Choose a Value<option value=5>5 (Excellent)<option value=4>4<option value=3>3<option value=2>2<option value=1>1 (Terrible)');
+    if (admin) { 
+      w.document.writeln ('<option value="reset">Reset'); 
+      }
+    w.document.writeln ('</select><input type=submit value="Rate It"></p>');
+    if (admin) { 
+      w.document.writeln ('Password for Reset: <input type=password name=pass size=8>'); 
+      }
+    w.document.writeln ('</form></body></html>'); 
+    w.document.close();
+    return;
+    }
+
+function descDlog (cleanfile, product, category, file, description) {
+    var winProps = 'toolbar=0,location=0,directories=0,menubar=0,width=500,height=240';
+    var winName = ('descDlog');
+    var w = window.open ('', winName, winProps);
+    w.document.close();
+    w.document.writeln ('<head><title>Describe "'+cleanfile+'"</title></head><body bgcolor=#000000 link=#999933 alink=#999999 vlink=#999999 text=#CCCC00 background="">');
+    w.document.writeln ('<font face="Geneva, Verdana, Arial" size="1"><b>Describe "'+cleanfile+'"</b>');
+    w.document.writeln ('<form action=http://www.ambrosiasw.com/cgi-bin/vftp/describe.pl method=post>');
+    w.document.writeln ('<input type=hidden name=product value="'+product+'">'); 
+    w.document.writeln ('<input type=hidden name=category value="'+category+'">'); 
+    w.document.writeln ('<input type=hidden name=file value="'+file+'">'); 
+    w.document.writeln ('<p><textarea cols=72 rows=8 name=description autowrap>');
+    w.document.writeln (description);
+    w.document.writeln ('</textarea></p>'); 
+    w.document.writeln ('<p>Password: <input type=password name=pass size=8></p>'); 
+    w.document.writeln ('<input type=submit value="Enter Description"></form></body></html>');
+    w.document.close();
+    return;
+    }
+    
+//-->
+</script>
+
+</TD></TR><TR><TD BACKGROUND='/images/up_gradient.gif' WIDTH='100%' HEIGHT='8' COLSPAN='2'><IMG SRC='/images/small_invisible_spacer.gif' WIDTH='4' HEIGHT='4'></TD></TR></TABLE><BR><CENTER><IMG SRC="/images/badges/poweredbymacosxserver.gif" HEIGHT="31" WIDTH="129" ALT="Powered by Mac OS X Server"></CENTER><BR>
+<P>
+<CENTER>
+<EM><FONT COLOR="#000000">
+Copyright &copy;1995-2003 by Ambrosia Software, Inc. - All rights reserved
+</FONT></EM>
+</CENTER>
+<P>
+</body></html>
