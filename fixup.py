@@ -64,13 +64,13 @@ for game in sys.argv[1:]:
     if found:
         print()
         print("FOUND:")
-        for k, v in found.items():
+        for k, v in sorted(found.items(), key=lambda kv: kv[1]['title']):
             print("%14s %s" % (v["date"], k))
 
     print()
     if missing:
         print("STILL MISSING:")
-        for k, v in missing.items():
+        for k, v in sorted(missing.items(), key=lambda kv: kv[1]['title']):
             print("%14s %s" % (v["date"], k))
     else:
         print("ALL FOUND! YAY!")
