@@ -14,6 +14,7 @@ DATE = re.compile(r"\d+/\d+/\d+")
 
 for game in sys.argv[1:]:
     missing = {}
+    already = {}
     with open(f"json/{game}.json") as f:
         j = json.load(f, object_pairs_hook=collections.OrderedDict)
     for k, v in j.items():
@@ -22,6 +23,8 @@ for game in sys.argv[1:]:
         filepath = urllib.parse.unquote(FILE.match(v["filepath"]).group(1))
         if v["date"] == LOST:
             missing[filepath] = v
+        else:
+            already[filepath] = v
 
     found = {}
     for path in glob.glob(f"archive/{game}/*"):
@@ -48,6 +51,8 @@ for game in sys.argv[1:]:
                 del(missing[filepath])
             elif filepath in found:
                 pass  # found in multiple archives, that’s OK
+            elif filepath in already:
+                pass  # already fixed in the source JSON, that’s OK
             else:
                 print("WARNING: found unknown download %s" % filepath)
 
