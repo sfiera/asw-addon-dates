@@ -4,6 +4,7 @@ import bs4
 import collections
 import glob
 import json
+import os
 import re
 import sys
 import urllib.parse
@@ -56,10 +57,29 @@ for game in sys.argv[1:]:
             else:
                 print("WARNING: found unknown download %s" % filepath)
 
-    print()
-    print("FOUND:")
-    for k, v in found.items():
-        print("%14s %s" % (v["date"], k))
+    if os.path.isfile(f"manual/{game}.tsv"):
+        with open(f"manual/{game}.tsv") as f:
+            keys = f.readline().split("\t")
+            for line in f.readlines():
+                data = dict(zip(keys, line.split("\t")))
+                date = data["date"]
+                filepath = data["filepath"]
+                if filepath in missing:
+                    found[filepath] = missing[filepath]
+                    found[filepath]["date"] = date
+                    del(missing[filepath])
+                elif filepath in found:
+                    pass  # found in multiple archives, that’s OK
+                elif filepath in already:
+                    pass  # already fixed in the source JSON, that’s OK
+                else:
+                    print("WARNING: unknown manual entry %s" % filepath)
+
+    if found:
+        print()
+        print("FOUND:")
+        for k, v in found.items():
+            print("%14s %s" % (v["date"], k))
 
     print()
     if missing:
