@@ -1,0 +1,658 @@
+  <!doctype html public "-//W3C//DTD HTML 4.0 Transitional//EN">
+  <html>
+  <head><title>Ambrosia Software, Inc. -- uplink Files</title></head>
+  <BODY BGCOLOR="#003366" TEXT="#FFFFFF" LINK="#DDDDDD" ALINK="#BBBBBB" VLINK="#BBBBBB" LEFTMARGIN="0" TOPMARGIN="0" MARGINWIDTH="0" MARGINHEIGHT="0" BACKGROUND = "/images/ribbed_background.gif">
+
+<!-- BEGIN big placeholder table --><TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="49%" VALIGN="top" BACKGROUND="/images/new_navbar/bar_spacer.gif"> &nbsp; </TD><TD WIDTH="2%" VALIGN="top" ALIGN="center"><!-- BEGIN tabs --><TABLE WIDTH="600" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="600" ALIGN="center" VALIGN="top"><TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD VALIGN="bottom" ALIGN="center"><IMG WIDTH="72" HEIGHT="78" SRC="/images/new_navbar/ambrosia_logo_top.gif" ALT="Ambrosia" BORDER="0"></TD><TD WIDTH="500" VALIGN="middle" ALIGN="center">
+<TABLE WIDTH="100%" CELLSPACING="0" CELLPADDING="0" BORDER="0">
+<TR>
+<TD ALIGN="center" VALIGN="middle">
+<A HREF="/cgi-bin/showsell/showsell.pl?redirect=uplink_banner" TARGET="_blank"><IMG BORDER="0" ALT="Click here to try out Uplink!" SRC="http://www.AmbrosiaSW.com/banners/uplink_banner.gif"></A>
+</TD>
+</TR>
+</TABLE>
+</TD></TR></TABLE></TD></TR><TR><TD WIDTH="600" ALIGN="center" VALIGN="top"><IMG WIDTH="14" HEIGHT="3" SRC="/images/new_navbar/below_ambrosia_logo.gif" ALT="---" BORDER="0"><IMG WIDTH="72" HEIGHT="35" SRC="/images/new_navbar/ambrosia_logo_bottom.gif" ALT="Software" BORDER="0"><A TITLE="Read Ambrosia news, articles, web-based discussion, and info on upcoming products" onMouseOver="status='Ambrosia news, articles, web-based discussion, and info on upcoming products'; return true;" onMouseOut="status=''; return true;" HREF="http://www.AmbrosiaSW.com/news/"><IMG WIDTH="100" HEIGHT="35" SRC="/images/new_navbar/news_tab_inactive.gif" ALT="news" BORDER="0"></A><A TITLE="Purchase Ambrosia products, upgrades, CDs, and other paraphernalia" onMouseOver="status='Purchase Ambrosia products, upgrades, CDs, and other paraphernalia'; return true;" onMouseOut="status=''; return true;" HREF="https://secure.AmbrosiaSW.com/cgi-bin/store/hazel.cgi"><IMG WIDTH="100" HEIGHT="35" SRC="/images/new_navbar/store_tab_inactive.gif" ALT="store" BORDER="0"></A><A TITLE="Check out Ambrosia anti-productivity software (games)" onMouseOver="status='Check out Ambrosia anti-productivity software (games)'; return true;" onMouseOut="status=''; return true;" HREF="http://www.AmbrosiaSW.com/games/"><IMG WIDTH="100" HEIGHT="35" SRC="/images/new_navbar/games_tab_active.gif" ALT="*games" BORDER="0"></A><A TITLE="Get info on Ambrosia productivity software" onMouseOver="status='Get info on Ambrosia productivity software'; return true;" onMouseOut="status=''; return true;" HREF="http://www.AmbrosiaSW.com/utilities/"><IMG WIDTH="100" HEIGHT="35" SRC="/images/new_navbar/utilities_tab_inactive.gif" ALT="utilities" BORDER="0"></A><A TITLE="Get help from Ambrosia tech support, product updates, and technical info" onMouseOver="status='Get help from Ambrosia tech support, product updates, and technical info'; return true;" onMouseOut="status=''; return true;" HREF="http://www.AmbrosiaSW.com/support/"><IMG WIDTH="100" HEIGHT="35" SRC="/images/new_navbar/support_tab_inactive.gif" ALT="support" BORDER="0"></A><IMG WIDTH="14" HEIGHT="3" SRC="/images/new_navbar/below_ambrosia_logo.gif" ALT="---" BORDER="0"></TD></TR><!-- END tabs --><!-- BEGIN subbar --><TR><TD WIDTH="600" VALIGN="top"><A TITLE="Check out Ambrosia anti-productivity software (games)" onMouseOver="status='Check out Ambrosia anti-productivity software (games)'; return true;" onMouseOut="status=''; return true;" HREF="http://www.AmbrosiaSW.com/games/"><IMG WIDTH="100" HEIGHT="17" SRC="/images/new_navbar/main_bar_inactive.gif" ALT="main" BORDER="0"></A><A TITLE="View action-oriented games from Ambrosia" onMouseOver="status='View action-oriented games from Ambrosia'; return true;" onMouseOut="status=''; return true;" HREF="/games/action.html"><IMG WIDTH="100" HEIGHT="17" SRC="/images/new_navbar/action_bar_inactive.gif" ALT="action" BORDER="0"></A><A TITLE="View arcade-style games from Ambrosia" onMouseOver="status='View arcade-style games from Ambrosia'; return true;" onMouseOut="status=''; return true;" HREF="/games/arcade.html"><IMG WIDTH="100" HEIGHT="17" SRC="/images/new_navbar/arcade_bar_inactive.gif" ALT="arcade" BORDER="0"></A><A TITLE="View strategy/puzzle games from  Ambrosia" onMouseOver="status='View strategy/puzzle games from  Ambrosia'; return true;" onMouseOut="status=''; return true;" HREF="/games/strategy.html"><IMG WIDTH="100" HEIGHT="17" SRC="/images/new_navbar/strategy_bar_inactive.gif" ALT="strategy" BORDER="0"></A><A TITLE="Go to the main Uplink web page" onMouseOver="status='Go to the main Uplink web page'; return true;" onMouseOut="status=''; return true;" HREF="http://www.AmbrosiaSW.com/games/uplink/"><IMG WIDTH="200" HEIGHT="17" SRC="/images/new_navbar/uplink_bar_active.gif" ALT="Uplink" BORDER="0"></A></TD></TR><!-- END subbar --></TABLE></TD><TD WIDTH="49%" VALIGN="top" BACKGROUND="/images/new_navbar/bar_spacer.gif"> &nbsp; </TD></TR></TABLE><!-- END big placeholder table -->  <TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+  <TR><TD BGCOLOR="#000000" ALIGN="left" VALIGN="top">
+  
+<font face="Geneva, Verdana, Arial" size="1"><blockquote><h2>Uplink Files</h2></blockquote>
+
+<blockquote>View by: 
+<a href=./show.pl?product=uplink&category=*&page=1&display=name>Name</a>
+<b>Date</b>
+<a href=./show.pl?product=uplink&category=*&page=1&display=rating>Rating</a>
+<a href=./show.pl?product=uplink&category=*&page=1&display=downloads>Downloads</a>
+<a href=./show.pl?product=uplink&category=*&page=1&display=size>Size</a>
+</blockquote><blockquote><b>Newest Files:</b></blockquote>
+
+<table width='100%' border=0 cellspacing=0 cellpadding=4>
+        <tr><td width="4%" bgcolor=#104376>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=#104376>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> essentials -  <a href='/cgi-bin/vftp/show.pl?product=uplink&category=*&display=date&file=Uplink_update.sit'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Uplink_update.sit?path=uplink/essentials&file=Uplink_update.sit'><b>Uplink update</b></a> - 1.94 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This download will update Uplink 1.3.1 to Uplink 1.3.2 - it is a smaller download for those who downloaded the previous version.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=#104376>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>1/7/2004</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>100 (<a href="javascript:rateDlog('Uplink update', 'uplink', 'essentials', 'Uplink_update.sit', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>2819 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Uplink_update.sit?path=uplink/essentials&file=Uplink_update.sit'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=#104376>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=#205386>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=#205386>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> essentials -  <a href='/cgi-bin/vftp/show.pl?product=uplink&category=*&display=date&file=Uplink.sit'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Uplink.sit?path=uplink/essentials&file=Uplink.sit'><b>Uplink</b></a> - 21.69 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> You play an Uplink Agent who makes a living by performing jobs for major corporations. Your tasks involve hacking into rival computer systems, stealing research data, sabotaging other companies, laundering money, erasing evidence, or framing innocent people.  You use the money you earn to upgrade your computer systems, and to buy new software and tools. As your experience level increases you find more dangerous and profitable missions become available. You can speculate on a fully working stock market (and even influence its outcome). You can modify peoples academic or criminal records. You can divert money from bank transfers into your own accounts. You can even take part in the construction of the most deadly computer virus ever designed.   </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=#205386>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>1/7/2004</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>93 (<a href="javascript:rateDlog('Uplink', 'uplink', 'essentials', 'Uplink.sit', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>2961 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Uplink.sit?path=uplink/essentials&file=Uplink.sit'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=#205386>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=#104376>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=#104376>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> essentials -  <a href='/cgi-bin/vftp/show.pl?product=uplink&category=*&display=date&file=DefaultGraphSounds.sit.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/DefaultGraphSounds.sit.hqx?path=uplink/essentials&file=DefaultGraphSounds.sit.hqx'><b>DefaultGraphSounds</b></a> - 6.11 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Uplink Dev Package: The default Sounds and Theme, Including Ambrosia  Contraband Logos, and LAN Systems. SUBMITTED BY Agent_Vast  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=#104376>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>1/5/2004</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>80 (<a href="javascript:rateDlog('DefaultGraphSounds', 'uplink', 'essentials', 'DefaultGraphSounds.sit.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>232 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/DefaultGraphSounds.sit.hqx?path=uplink/essentials&file=DefaultGraphSounds.sit.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=#104376>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=#205386>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=#205386>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=uplink&category=*&display=date&file=TheLanGuide.sit.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/TheLanGuide.sit.hqx?path=uplink/addons&file=TheLanGuide.sit.hqx'><b>TheLanGuide</b></a> - 2 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> The Definitive guide to LAN Hacking. Do those strange screens befuddle you? Can't tell your Terminals from your Routers? Well read The LAN Guide and get understanding Right Here, Right Now. By Agent Vast  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=#205386>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>9/29/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>80 (<a href="javascript:rateDlog('TheLanGuide', 'uplink', 'addons', 'TheLanGuide.sit.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>1963 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/TheLanGuide.sit.hqx?path=uplink/addons&file=TheLanGuide.sit.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=#205386>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=#104376>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=#104376>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=uplink&category=*&display=date&file=interlinkX.sit'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/interlinkX.sit?path=uplink/addons&file=interlinkX.sit'><b>interlinkX</b></a> - 788 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> InterLink for Mac OS X.  Are you tired of the colors in Ambrosia Software's Uplink? Do you want a fresh look for the game but don't have the time to spend hours guessing colors by typing numbers into a text file? Then InterLink is the answer. InterLink allows you to change most of the colors in Uplink with minimal effort on your behalf. InterLink allows you to easily choose the colors YOU like and at the press of a button generate an Uplink Theme - the only thing you need to do is drag it to your Uplink folder! InterLink includes detailed information to help you choose the right colors for the right part of Uplink - press the Help button to access all the information you need.  The only requirement is that you have a registered copy of Uplink.  Visit http://www.ariossoftware.com/products/interlink/ for more information.   </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=#104376>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>8/9/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>74 (<a href="javascript:rateDlog('interlinkX', 'uplink', 'addons', 'interlinkX.sit', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>829 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/interlinkX.sit?path=uplink/addons&file=interlinkX.sit'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=#104376>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=#205386>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=#205386>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=uplink&category=*&display=date&file=interlink9.sit'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/interlink9.sit?path=uplink/addons&file=interlink9.sit'><b>interlink9</b></a> - 782 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> InterLink for Mac OS 8.1 to 9.2.2.  Are you tired of the colors in Ambrosia Software's Uplink? Do you want a fresh look for the game but don't have the time to spend hours guessing colors by typing numbers into a text file? Then InterLink is the answer. InterLink allows you to change most of the colors in Uplink with minimal effort on your behalf. InterLink allows you to easily choose the colors YOU like and at the press of a button generate an Uplink Theme - the only thing you need to do is drag it to your Uplink folder! InterLink includes detailed information to help you choose the right colors for the right part of Uplink - press the Help button to access all the information you need.  Visit http://www.ariossoftware.com/products/interlink/ for more information.  The only requirement is that you have a registered copy of Uplink.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=#205386>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>8/9/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>70 (<a href="javascript:rateDlog('interlink9', 'uplink', 'addons', 'interlink9.sit', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>202 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/interlink9.sit?path=uplink/addons&file=interlink9.sit'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=#205386>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=#104376>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=#104376>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=uplink&category=*&display=date&file=Aqua_Nurdage.dmg'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Aqua_Nurdage.dmg?path=uplink/addons&file=Aqua_Nurdage.dmg'><b>Aqua Nurdage</b></a> - 644 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This is a Mac-friendly sort of Aqua-like theme for Uplink. All of the graphical buttons have been redone in a somewhat subdued candy-colored scheme. Not responsible for any loss of visual acuity due to badly thought-out color combinations o). Once you've mounted the disk image, just copy (command-drag) the whole thing into your Uplink installation's data folder. Load up uplink, and go to the Themes section under Options from the main menu. Enjoy a more lick-able Uplink experience!  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=#104376>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>7/6/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>60 (<a href="javascript:rateDlog('Aqua Nurdage', 'uplink', 'addons', 'Aqua_Nurdage.dmg', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>793 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Aqua_Nurdage.dmg?path=uplink/addons&file=Aqua_Nurdage.dmg'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=#104376>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=#205386>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=#205386>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=uplink&category=*&display=date&file=UplinkAgentBackup0.2.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/UplinkAgentBackup0.2.hqx?path=uplink/addons&file=UplinkAgentBackup0.2.hqx'><b>UplinkAgentBackup0.2</b></a> - 980 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Backup your uplink agent so if you get caught, you wouldn't have to start the game all over again. By Ofri Wolfus.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=#205386>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>6/29/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>58 (<a href="javascript:rateDlog('UplinkAgentBackup0.2', 'uplink', 'addons', 'UplinkAgentBackup0.2.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>3210 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/UplinkAgentBackup0.2.hqx?path=uplink/addons&file=UplinkAgentBackup0.2.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=#205386>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=#104376>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=#104376>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=uplink&category=*&display=date&file=RevelationSaver.dmg.sit'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/RevelationSaver.dmg.sit?path=uplink/addons&file=RevelationSaver.dmg.sit'><b>RevelationSaver</b></a> - 30 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> OS X only.  A screensaver similar to what happens when you run Revelation on your gateway. I got the strings to use from a picture in Icepick's guide (available at www.modlink.net).  The font is Times-Roman, size 12.  Place the folder RevelationSaver.saver in either {Your home directory}/Library/Screen Savers/ or /Library/Screen Savers/. The first makes it available to only you the second makes it available to everyone but requires admin access.  -- sinclair44 (See my webboard profile for email)  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=#104376>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>6/12/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>76 (<a href="javascript:rateDlog('RevelationSaver', 'uplink', 'addons', 'RevelationSaver.dmg.sit', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>1868 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/RevelationSaver.dmg.sit?path=uplink/addons&file=RevelationSaver.dmg.sit'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=#104376>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=#205386>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=#205386>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=uplink&category=*&display=date&file=gateway_building_parts.sit'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/gateway_building_parts.sit?path=uplink/addons&file=gateway_building_parts.sit'><b>gateway building parts</b></a> - 3 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> These can be used to build your own gateways. These are pictures of the gateway parts that are used on all the gateways that come with the game. Includes:cpu, dark colored memoy stick, light colored memory stick, security system, modem, and power supply. Enjoy.  Made by Garrett A.K.A Bodadem on the boards.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=#205386>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>6/11/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>48 (<a href="javascript:rateDlog('gateway building parts', 'uplink', 'addons', 'gateway_building_parts.sit', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>2097 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/gateway_building_parts.sit?path=uplink/addons&file=gateway_building_parts.sit'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=#205386>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=#104376>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=#104376>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=uplink&category=*&display=date&file=bank_hacking.txt.tar.gz'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/bank_hacking.txt.tar.gz?path=uplink/addons&file=bank_hacking.txt.tar.gz'><b>bank hacking.txt.tar.gz</b></a> - 2 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Bank Hacking v1.0 by admiraldennis.  The ultimate guide to hacking banks in Uplink! Earn an easy 1 million credits! All you need is a password cracker, a proxy disabler, a log deleter, and a few numbers. Follow along with my simple step-by-step instructions to incredible wealth!  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=#104376>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>6/5/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>77 (<a href="javascript:rateDlog('bank hacking.txt.tar.gz', 'uplink', 'addons', 'bank_hacking.txt.tar.gz', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>4980 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/bank_hacking.txt.tar.gz?path=uplink/addons&file=bank_hacking.txt.tar.gz'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=#104376>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=#205386>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=#205386>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=uplink&category=*&display=date&file=InterNARC.sit.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/InterNARC.sit.hqx?path=uplink/addons&file=InterNARC.sit.hqx'><b>InterNARC</b></a> - 141 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> From the creator of RedshirtX comes this handy little utility to finally settle the InterNIC vs Uplink Test Machine debate. InterNARC uses a simple drag-and-drop interface to remove the InterNIC password from a user file- click Admin, and you're right there. v1.0b- Same deal as RedshirtX. Send me an email and let me know what you think. Have fun :)  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=#205386>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>6/4/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>90 (<a href="javascript:rateDlog('InterNARC', 'uplink', 'addons', 'InterNARC.sit.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>1815 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/InterNARC.sit.hqx?path=uplink/addons&file=InterNARC.sit.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=#205386>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=#104376>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=#104376>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=uplink&category=*&display=date&file=LetsHackSplashScreen.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/LetsHackSplashScreen.hqx?path=uplink/addons&file=LetsHackSplashScreen.hqx'><b>LetsHackSplashScreen</b></a> - 1.85 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Let's Hack Splash Screen - Want to replace that Uplink startup splash screen with something cool? Then this is for you! You should not install this until you can name without hesitation those two great companies that brought this game to the Mac for you -) ... - just expand this in your &quot;graphics&quot; folder in the &quot;data&quot; folder of your Uplink installation, (make a graphics folder if you haven't already done so - come on, you're a hacker, you can figure it out) - another cool graphics mod by Rob MacLoud.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=#104376>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>6/4/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>60 (<a href="javascript:rateDlog('LetsHackSplashScreen', 'uplink', 'addons', 'LetsHackSplashScreen.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>528 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/LetsHackSplashScreen.hqx?path=uplink/addons&file=LetsHackSplashScreen.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=#104376>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=#205386>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=#205386>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=uplink&category=*&display=date&file=HappyMacSoftwareButton.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/HappyMacSoftwareButton.hqx?path=uplink/addons&file=HappyMacSoftwareButton.hqx'><b>HappyMacSoftwareButton</b></a> - 79 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Happy Mac Software Button - A replacement for that &quot;parabola antenna&quot; button that you click to launch your hacking programs. It's nice to see a friendly smiling face when you're in a tense situation and things are getting a little tight... - just expand this into &quot;graphics&quot; to create a &quot;hud&quot; folder with the mod images. - Rob MacLoud  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=#205386>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>6/4/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>60 (<a href="javascript:rateDlog('HappyMacSoftwareButton', 'uplink', 'addons', 'HappyMacSoftwareButton.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>532 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/HappyMacSoftwareButton.hqx?path=uplink/addons&file=HappyMacSoftwareButton.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=#205386>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=#104376>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=#104376>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=uplink&category=*&display=date&file=Deus_Ex.sea'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Deus_Ex.sea?path=uplink/addons&file=Deus_Ex.sea'><b>Deus Ex</b></a> - 1.00 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> An extremely well done skin, based on Deus Ex. Suits the gameplay style perfectly, and makes a nice change from the blue. Just put the 'Deus Ex&quot; folder in the Data folder, and switch in Prefs.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=#104376>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>6/2/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>70 (<a href="javascript:rateDlog('Deus Ex', 'uplink', 'addons', 'Deus_Ex.sea', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>2407 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Deus_Ex.sea?path=uplink/addons&file=Deus_Ex.sea'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=#104376>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=#205386>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=#205386>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=uplink&category=*&display=date&file=Uplink_Icon_pack_1.0.sit.bin'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Uplink_Icon_pack_1.0.sit.bin?path=uplink/addons&file=Uplink_Icon_pack_1.0.sit.bin'><b>Uplink Icon pack 1.0</b></a> - 195 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Here are some (12) OS X Uplink disk icons I created with Can Combine Icons 3.  SImply open the picture, and copy/past it.  Classic version available when the 'black box' is dealt with.  Special Photoshop touches will be done when my external drive is fixed (not enough internal space).  Since I am having trouble with a 'black box' behind the icons, can someone give me some pointers?  By: phoenix9000 Contact: laciemac1@earthlink.net.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=#205386>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>6/1/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>60 (<a href="javascript:rateDlog('Uplink Icon pack 1.0', 'uplink', 'addons', 'Uplink_Icon_pack_1.0.sit.bin', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>657 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Uplink_Icon_pack_1.0.sit.bin?path=uplink/addons&file=Uplink_Icon_pack_1.0.sit.bin'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=#205386>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=#104376>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=#104376>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=uplink&category=*&display=date&file=loading.sit.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/loading.sit.hqx?path=uplink/addons&file=loading.sit.hqx'><b>loading</b></a> - 874 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Alternative Loading Screen - tired of those weird eyes and that mandelbrot? I took the loading screen image that I thought had the most promise and &quot;completed it&quot; - well at least it's better than those eyes! Make a folder called &quot;graphics&quot; in the &quot;data&quot; folder of your Uplink installation and expand this download into it. You'll get a folder called &quot;loading&quot; with a TIFF image and a text file, both of these are required. The next time you start up you won't get &quot;eyeballed&quot; - brought to you by Rob MacLoud.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=#104376>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>6/1/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>60 (<a href="javascript:rateDlog('loading', 'uplink', 'addons', 'loading.sit.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>394 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/loading.sit.hqx?path=uplink/addons&file=loading.sit.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=#104376>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=#205386>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=#205386>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=uplink&category=*&display=date&file=darkerMapsNlogin.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/darkerMapsNlogin.hqx?path=uplink/addons&file=darkerMapsNlogin.hqx'><b>darkerMapsNlogin</b></a> - 221 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Darker Maps + Cleaner Login + Speed Highlite by Rob MacLoud The map is darker and clearer for when you've got &quot;thousands&quot; of connections displayed.  Cleaned up the password entry dialog box because honestly I didn't like the originals.  Added &quot;highlites&quot; to the &quot;time speed change&quot; selector buttons at the top of the screen making them clearer, just in case I'm not the only &quot;hacker&quot; foolish enough to forget to reselect normal time before cracking passwords against the clock... -P  To install just expand into the data folder of your Uplink installation.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=#205386>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>6/1/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>80 (<a href="javascript:rateDlog('darkerMapsNlogin', 'uplink', 'addons', 'darkerMapsNlogin.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>1030 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/darkerMapsNlogin.hqx?path=uplink/addons&file=darkerMapsNlogin.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=#205386>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=#104376>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=#104376>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> essentials -  <a href='/cgi-bin/vftp/show.pl?product=uplink&category=*&display=date&file=music.dat'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/music.dat?path=uplink/essentials&file=music.dat'><b>music</b></a> - 1 k </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> An empty music.dat file.  Replacing the music.dat file in the data directory with this version will turn off the music while leaving the sound.   </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=#104376>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/30/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>41 (<a href="javascript:rateDlog('music', 'uplink', 'essentials', 'music.dat', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>1232 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/music.dat?path=uplink/essentials&file=music.dat'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=#104376>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=#205386>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=#205386>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=uplink&category=*&display=date&file=Uplink_Music.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Uplink_Music.hqx?path=uplink/addons&file=Uplink_Music.hqx'><b>Uplink Music</b></a> - - </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This is the Uplink Music in AAC (.MP4) format.  You need iTunes 4 to play this, or at least the newest version of QT.  I can try converting them to mp3 if this is a problem for many people.  (also hosted on macgamer.net)  NOTE: This file doesn't seem to work for ~anybody~. Seems to be a problem with uploading it to ASW, and it's being checked out. In the meantime, you can download it at www.evula.org/bavarian_cream_god/Uplink.sit  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=#205386>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/29/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>80 (<a href="javascript:rateDlog('Uplink Music', 'uplink', 'addons', 'Uplink_Music.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>1154 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Uplink_Music.hqx?path=uplink/addons&file=Uplink_Music.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=#205386>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=#104376>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=#104376>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=uplink&category=*&display=date&file=antiproantis_Map.sit.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/antiproantis_Map.sit.hqx?path=uplink/addons&file=antiproantis_Map.sit.hqx'><b>antiproantis Map</b></a> - 464 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Alternate world map. Kind of green and bulgy. Doesn't exactly match the rest of the basic theme, but it's cool looking. Place &quot;Graphics&quot; folder in the Data folder. By Antiproanti  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=#104376>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/28/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>72 (<a href="javascript:rateDlog('antiproantis Map', 'uplink', 'addons', 'antiproantis_Map.sit.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>490 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/antiproantis_Map.sit.hqx?path=uplink/addons&file=antiproantis_Map.sit.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=#104376>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=#205386>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=#205386>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=uplink&category=*&display=date&file=Flames.sit.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Flames.sit.hqx?path=uplink/addons&file=Flames.sit.hqx'><b>Flames</b></a> - 1.52 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Cool flamey skin for uplink. If you're sick of the blue, than try this. Just place the &quot;Flames&quot; folder inside the Data folder By elDiablo  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=#205386>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/28/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>80 (<a href="javascript:rateDlog('Flames', 'uplink', 'addons', 'Flames.sit.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>1128 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Flames.sit.hqx?path=uplink/addons&file=Flames.sit.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=#205386>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=#104376>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=#104376>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=uplink&category=*&display=date&file=RedshirtX.sit.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/RedshirtX.sit.hqx?path=uplink/addons&file=RedshirtX.sit.hqx'><b>RedshirtX</b></a> - 127 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> RedshirtX is a (kinda) easy-to-use, OS X only application for decrypting all those troublesome REDSHIRT-encrypted files (namely data.dat and the .usr files). It is still in development, so your comments are very much appreciated. Anyway, it's all in the archive. Contents: RedshirtX (the application), a basic readme, a usefulness guide, and contact info. In a nutshell, RedshirtX is the quintessential tool for hacking Uplink- have fun, and don't forget to write :)      </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=#104376>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/27/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>85 (<a href="javascript:rateDlog('RedshirtX', 'uplink', 'addons', 'RedshirtX.sit.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>2560 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/RedshirtX.sit.hqx?path=uplink/addons&file=RedshirtX.sit.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=#104376>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=#205386>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=#205386>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> essentials -  <a href='/cgi-bin/vftp/show.pl?product=uplink&category=*&display=date&file=uplink_extras.sit'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/uplink_extras.sit?path=uplink/essentials&file=uplink_extras.sit'><b>uplink extras</b></a> - 14.69 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> The &quot;uplink extras&quot; are a collection of history material that Introversion distributed on a bonus CD.  The material contained within is not necessary for playing Uplink, but it does contain some interesting tidbits on the developmental process, and clues to the game itself as well.  Simply double-click on the &quot;index.html&quot; file in the &quot;uplink extras&quot; folder and you'll be on your way...  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=#205386>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/26/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>85 (<a href="javascript:rateDlog('uplink extras', 'uplink', 'essentials', 'uplink_extras.sit', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>4410 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/uplink_extras.sit?path=uplink/essentials&file=uplink_extras.sit'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=#205386>&nbsp;</td></tr>
+</table>
+
+<BLOCKQUOTE><b>
+
+</b></blockquote><script language="JavaScript">
+//<!--
+function sendDlog () {
+    var winProps = 'toolbar=0,resizable=1,scrollbars=1,location=0,directories=0,menubar=0,width=620,height=400';
+    var winName = ('sendDlog');
+    var w = window.open ('', winName, winProps);
+	    
+    w.document.close();
+
+    w.document.writeln ('<head><title>Submit a File</title></head><BODY BGCOLOR="#FFFFFF" BACKGROUND = "/images/ribbed_background.gif">');
+
+w.document.writeln ('<CENTER>');
+w.document.writeln ('<TABLE BORDER="0" CELLPADDING="8" BORDER="0" CELLSPACING="0">');
+w.document.writeln ('<TR>');
+w.document.writeln ('<TD ALIGN="center" VALIGN="middle">');
+w.document.writeln ('<IMG SRC="/images/buttons/1button.gif" WIDTH="55" HEIGHT="55" BORDER="0" ALT="1">');
+w.document.writeln ('</TD>');
+w.document.writeln ('<TD ALIGN="left" VALIGN="top">');
+w.document.writeln ('<FONT SIZE="4" FACE="Helvetica" color="#000000">');
+w.document.writeln ('<B>Please test and proofread the files you\'re submitting</B>');
+w.document.writeln ('</FONT><BR>');
+w.document.writeln ('<FONT SIZE="1" FACE="Geneva, Arial, Helvetica" color="#000000">');
+w.document.writeln ('Keep in mind that thousands of people may be downloading and using the files you submit here.  Try to present yourself as best you can by testing your submission on a number of machines, proof-reading any text, and perhaps having others do a sanity-check on it before you submit it.  It\'s far easier to catch mistakes ahead of time than to try to correct them after the fact.<BR>');
+w.document.writeln ('</FONT>');
+w.document.writeln ('</TD>');
+w.document.writeln ('</TR>');
+w.document.writeln ('<TR>');
+w.document.writeln ('<TD ALIGN="center" VALIGN="middle">');
+w.document.writeln ('<IMG SRC="/images/buttons/2button.gif" WIDTH="55" HEIGHT="55" BORDER="0" ALT="2">');
+w.document.writeln ('</TD>');
+w.document.writeln ('<TD ALIGN="left" VALIGN="top">');
+w.document.writeln ('<FONT SIZE="4" FACE="Helvetica" color="#000000">');
+w.document.writeln ('<B>Compress your files with Stuffit or Compact Pro before submitting</B>');
+w.document.writeln ('</FONT><BR>');
+w.document.writeln ('<FONT SIZE="1" FACE="Geneva, Arial, Helvetica" color="#000000">');
+w.document.writeln ('You must use a program such as <A HREF="http://www.aladdinsys.com/expander/expander_mac.html">StuffIt</A> or <A HREF="http://hyperarchive.lcs.mit.edu/HyperArchive/Archive/cmp/compact-pro-151.hqx">Compact Pro</A> to compress your files before you can submit them.  Files compressed with StuffIt should be suffixed with <B>.sit</B>, files compressed with Compact Pro should be suffixed with <B>.cpt</B>, and self-extracting archives created by either program should be suffixed with <B>.sea</B>.<BR>');
+w.document.writeln ('</FONT>');
+w.document.writeln ('</TD>');
+w.document.writeln ('</TR>');
+w.document.writeln ('<TR>');
+w.document.writeln ('<TD ALIGN="center" VALIGN="middle">');
+w.document.writeln ('<IMG SRC="/images/buttons/3button.gif" WIDTH="55" HEIGHT="55" BORDER="0" ALT="3">');
+w.document.writeln ('</TD>');
+w.document.writeln ('<TD ALIGN="left" VALIGN="top">');
+w.document.writeln ('<FONT SIZE="4" FACE="Helvetica" color="#000000">');
+w.document.writeln ('<B>Use MacBinary or HQX encoding on your files before submitting them</B>');
+w.document.writeln ('</FONT><BR>');
+w.document.writeln ('<FONT SIZE="1" FACE="Geneva, Arial, Helvetica" color="#000000">');
+w.document.writeln ('After you\'ve compressed your files as outlined above, please encode them using a program like <A HREF="http://hyperarchive.lcs.mit.edu/HyperArchive/Archive/cmp/mac-binary-101.hqx">MacBinary</A> or <A HREF="http://hyperarchive.lcs.mit.edu/HyperArchive/Archive/cmp/binhex-50.hqx">BinHex</A> (StuffIt and other products can also HQX-encode files) before you submit them.  This will allow others to download and decompress your files more easily and reduce the risk of the archives being corrupted in transit.  MacBinary-encoded files should be suffixed with <B>.bin</B>, HQX-encoded files should be suffixed with <B>.hqx</B>.<BR>');
+w.document.writeln ('</FONT>');
+w.document.writeln ('</TD>');
+w.document.writeln ('</TR>');
+w.document.writeln ('<TR>');
+w.document.writeln ('<TD ALIGN="center" VALIGN="middle">');
+w.document.writeln ('<IMG SRC="/images/buttons/4button.gif" WIDTH="55" HEIGHT="55" BORDER="0" ALT="4">');
+w.document.writeln ('</TD>');
+w.document.writeln ('<TD ALIGN="left" VALIGN="top">');
+w.document.writeln ('<FONT SIZE="4" FACE="Helvetica" color="#000000">');
+w.document.writeln ('<B>Enter a good name and description for your submission</B>');
+w.document.writeln ('</FONT><BR>');
+w.document.writeln ('<FONT SIZE="1" FACE="Geneva, Arial, Helvetica" color="#000000">');
+w.document.writeln ('Try to give your submission an appropriate name (eg <B>MyCoolPlugin.sit.bin</B> -- avoid the use of spaces, quotes, apostrophes, and other non-alphanumeric characters), and a description that is verbose enough to give people a good idea what the file is about, but also succinct enough that people will be able to read it quickly and easily.  Including a version number and/or release date, as well as the author\'s name in the description is helpful, too.<BR>');
+w.document.writeln ('</FONT>');
+w.document.writeln ('</TD>');
+w.document.writeln ('</TR>');
+w.document.writeln ('<TR>');
+w.document.writeln ('<TD ALIGN="left" VALIGN="top" COLSPAN="2">');
+w.document.writeln ('<FONT SIZE="1" FACE="Geneva, Arial, Helvetica" color="#000000">');
+w.document.writeln ('Once you\'ve done all that, click the <B>Submit</B> button below, and away she goes!  Once your file has been submitted, it will be reviewed by a site ');
+w.document.writeln ('administrator.  After review the admin will make your file available for ');
+w.document.writeln ('download in the appropriate directory of the add ons page.  ');
+w.document.writeln ('If you don\'t see your file right away, please be patient.  Thanks!');
+w.document.writeln ('</FONT>');
+w.document.writeln ('</TD>');
+w.document.writeln ('</TR>');
+w.document.writeln ('</TABLE>');
+w.document.writeln ('</CENTER>');
+    w.document.writeln ('<font face="Geneva, Verdana, Arial" size="1">');
+
+    w.document.writeln ('<form enctype="multipart/form-data" action=http://www.ambrosiasw.com/cgi-bin/vftp/upload.pl method=post>');
+    w.document.writeln ('<p><B>File:</B> <input name=sentfile type=file></p>');
+    w.document.writeln ('<p><b>Description</b>:</p>'); 
+    w.document.writeln ('<p><textarea cols=90 rows=8 name=description autowrap>');
+    w.document.writeln ('</textarea></p>'); 
+    w.document.writeln ('<p>For this product: <select name=target>'); 
+    w.document.writeln ('<option  value=aki>aki');
+    w.document.writeln ('<option  value=apeiron>apeiron');
+    w.document.writeln ('<option  value=ares>ares');
+    w.document.writeln ('<option  value=avara>avara');
+    w.document.writeln ('<option  value=barrack>barrack');
+    w.document.writeln ('<option  value=bt>bt');
+    w.document.writeln ('<option  value=chiral>chiral');
+    w.document.writeln ('<option  value=coldstone>coldstone');
+    w.document.writeln ('<option  value=colorswitch>colorswitch');
+    w.document.writeln ('<option  value=cythera>cythera');
+    w.document.writeln ('<option  value=dr>dr');
+    w.document.writeln ('<option  value=eclipse>eclipse');
+    w.document.writeln ('<option  value=ev>ev');
+    w.document.writeln ('<option  value=evn>evn');
+    w.document.writeln ('<option  value=evo>evo');
+    w.document.writeln ('<option  value=ferazel>ferazel');
+    w.document.writeln ('<option  value=harry>harry');
+    w.document.writeln ('<option  value=maelstrom>maelstrom');
+    w.document.writeln ('<option  value=mr>mr');
+    w.document.writeln ('<option  value=pog>pog');
+    w.document.writeln ('<option  value=pop-pop>pop-pop');
+    w.document.writeln ('<option  value=ragnarok>ragnarok');
+    w.document.writeln ('<option  value=slithereens>slithereens');
+    w.document.writeln ('<option  value=snapzpro>snapzpro');
+    w.document.writeln ('<option  value=snapzprox>snapzprox');
+    w.document.writeln ('<option  value=swoop>swoop');
+    w.document.writeln ('<option selected value=uplink>uplink');
+    w.document.writeln ("</select><input type=submit value=Submit></p></form></body>");
+    w.document.close();
+    return;
+    }
+
+function rmmvDlog (cleanfile, product, category, file) {
+    var winProps = 'toolbar=0,location=0,directories=0,menubar=0,width=300,height=120';
+    var winName = ('rmmvDlog');
+    var w = window.open ('', winName, winProps);
+    w.document.close();
+    w.document.writeln ('<head><title>Move or Delete "'+cleanfile+'"</title></head><body bgcolor=#003366 link=#DDDDDD alink=#BBBBBB vlink=#BBBBBB text=#FFFFFF background="">');
+    w.document.writeln ('<font face="Geneva, Verdana, Arial" size="1"><b>Move or Delete "'+cleanfile+'"</b>');
+    w.document.writeln ('<form action="http://www.ambrosiasw.com/cgi-bin/vftp/rm-mv.pl" method=post>');
+    w.document.writeln ('<input type=hidden name=product value="'+product+'">'); 
+    w.document.writeln ('<input type=hidden name=category value="'+category+'">'); 
+    w.document.writeln ('<input type=hidden name=file value="'+file+'">'); 
+    w.document.writeln ('<p>Password: <input type=password name=pass size=8></p>'); 
+    w.document.writeln ('<select name=target><option value=remove>Delete'); 
+    w.document.writeln ('<option value=addons>addons');
+    w.document.writeln ('<option value=essentials>essentials');
+    w.document.writeln ('</select>'); 
+    w.document.writeln ('<input type=submit value="Do It"></form></body></html>');
+    w.document.close();
+    return;
+    }
+
+function rateDlog (cleanfile, product, category, file, admin) {
+    var winProps = 'toolbar=0,location=0,directories=0,menubar=0,width=220,height=120';
+    var winName = ('rateDlog');
+    var w = window.open ('', winName, winProps);
+    w.document.close();
+    w.document.writeln ('<head><title>Rate "'+cleanfile+'"</title></head><body bgcolor=#003366 link=#DDDDDD alink=#BBBBBB vlink=#BBBBBB text=#FFFFFF background="">');
+    w.document.writeln ('<font face="Geneva, Verdana, Arial" size="1"><b>Rate "'+cleanfile+'"</b>');
+    w.document.writeln ('<form action="http://www.ambrosiasw.com/cgi-bin/vftp/rating.pl" method=post>');
+    w.document.writeln ('<input type=hidden name=product value="'+product+'">'); 
+    w.document.writeln ('<input type=hidden name=category value="'+category+'">'); 
+    w.document.writeln ('<input type=hidden name=file value="'+file+'">'); 
+    w.document.writeln ('<p><select name=vote>'); 
+    w.document.writeln ('<option value="">Choose a Value<option value=5>5 (Excellent)<option value=4>4<option value=3>3<option value=2>2<option value=1>1 (Terrible)');
+    if (admin) { 
+      w.document.writeln ('<option value="reset">Reset'); 
+      }
+    w.document.writeln ('</select><input type=submit value="Rate It"></p>');
+    if (admin) { 
+      w.document.writeln ('Password for Reset: <input type=password name=pass size=8>'); 
+      }
+    w.document.writeln ('</form></body></html>'); 
+    w.document.close();
+    return;
+    }
+
+function descDlog (cleanfile, product, category, file, description) {
+    var winProps = 'toolbar=0,location=0,directories=0,menubar=0,width=500,height=240';
+    var winName = ('descDlog');
+    var w = window.open ('', winName, winProps);
+    w.document.close();
+    w.document.writeln ('<head><title>Describe "'+cleanfile+'"</title></head><body bgcolor=#003366 link=#DDDDDD alink=#BBBBBB vlink=#BBBBBB text=#FFFFFF background="">');
+    w.document.writeln ('<font face="Geneva, Verdana, Arial" size="1"><b>Describe "'+cleanfile+'"</b>');
+    w.document.writeln ('<form action=http://www.ambrosiasw.com/cgi-bin/vftp/describe.pl method=post>');
+    w.document.writeln ('<input type=hidden name=product value="'+product+'">'); 
+    w.document.writeln ('<input type=hidden name=category value="'+category+'">'); 
+    w.document.writeln ('<input type=hidden name=file value="'+file+'">'); 
+    w.document.writeln ('<p><textarea cols=72 rows=8 name=description autowrap>');
+    w.document.writeln (description);
+    w.document.writeln ('</textarea></p>'); 
+    w.document.writeln ('<p>Password: <input type=password name=pass size=8></p>'); 
+    w.document.writeln ('<input type=submit value="Enter Description"></form></body></html>');
+    w.document.close();
+    return;
+    }
+    
+//-->
+</script>
+
+</TD></TR><TR><TD BACKGROUND='/images/up_gradient.gif' WIDTH='100%' HEIGHT='8' COLSPAN='2'><IMG SRC='/images/small_invisible_spacer.gif' WIDTH='4' HEIGHT='4'></TD></TR></TABLE><BR><CENTER><IMG SRC="/images/badges/poweredbymacosxserver.gif" HEIGHT="31" WIDTH="129" ALT="Powered by Mac OS X Server"></CENTER><BR>
+<P>
+<CENTER>
+<EM><FONT COLOR="#000000">
+Copyright &copy;1995-2004 by Ambrosia Software, Inc. - All rights reserved
+</FONT></EM>
+</CENTER>
+<P>
+</body></html>
