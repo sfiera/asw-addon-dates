@@ -37,6 +37,8 @@ for game in sys.argv[1:]:
             while ancestor.name != "table":
                 ancestor = ancestor.parent
             date = DATE.search(ancestor.get_text()).group(0)
+            if date == LOST:
+                print("WARNING: lost date in %s" % path)
 
             if filepath in missing:
                 found[filepath] = missing[filepath]
