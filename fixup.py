@@ -17,6 +17,8 @@ for game in sys.argv[1:]:
         j = json.load(f)
     for k, v in j.items():
         v["id"] = k
+        if v["filepath"] == "FileNotFound":
+            continue
         filepath = urllib.parse.unquote(FILE.match(v["filepath"]).group(1))
         if v["date"] == LOST:
             missing[filepath] = v
