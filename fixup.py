@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import bs4
+import collections
 import glob
 import json
 import re
@@ -14,9 +15,8 @@ DATE = re.compile(r"\d+/\d+/\d+")
 for game in sys.argv[1:]:
     missing = {}
     with open(f"json/{game}.json") as f:
-        j = json.load(f)
+        j = json.load(f, object_pairs_hook=collections.OrderedDict)
     for k, v in j.items():
-        v["id"] = k
         if v["filepath"] == "FileNotFound":
             continue
         filepath = urllib.parse.unquote(FILE.match(v["filepath"]).group(1))
@@ -63,3 +63,6 @@ for game in sys.argv[1:]:
             print("%14s %s" % (v["date"], k))
     else:
         print("ALL FOUND! YAY!")
+
+    with open(f"json/{game}.json", "w") as f:
+        json.dump(j, f)
