@@ -1,0 +1,806 @@
+  <!doctype html public "-//W3C//DTD HTML 4.0 Transitional//EN">
+  <html>
+  <head><title>Ambrosia Software, Inc. -- EV Nova Files</title></head>
+  <BODY BGCOLOR="#000000" TEXT="#888888" LINK="#AA1122" ALINK="#881122" VLINK="#881122" LEFTMARGIN="0" TOPMARGIN="0" MARGINWIDTH="0" MARGINHEIGHT="0" BACKGROUND = "/images/ribbed_background.gif">
+
+<!-- BEGIN big placeholder table --><TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="49%" VALIGN="top" BACKGROUND="/images/new_navbar/bar_spacer.gif"> &nbsp; </TD><TD WIDTH="2%" VALIGN="top" ALIGN="center"><!-- BEGIN tabs --><TABLE WIDTH="600" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="600" ALIGN="center" VALIGN="top"><TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD VALIGN="bottom" ALIGN="center"><IMG WIDTH="72" HEIGHT="78" SRC="/images/new_navbar/ambrosia_logo_top.gif" ALT="Ambrosia" BORDER="0"></TD><TD WIDTH="500" VALIGN="middle" ALIGN="center">
+<TABLE WIDTH="100%" CELLSPACING="0" CELLPADDING="0" BORDER="0">
+<TR>
+<TD ALIGN="center" VALIGN="middle">
+<A HREF="/cgi-bin/showsell/showsell.pl?redirect=remembrance" TARGET="_blank"><IMG BORDER="0" ALT="In Remembrace" SRC="http://www.AmbrosiaSW.com/banners/remembrance.jpg"></A>
+</TD>
+</TR>
+</TABLE>
+</TD></TR></TABLE></TD></TR><TR><TD WIDTH="600" ALIGN="center" VALIGN="top"><IMG WIDTH="14" HEIGHT="3" SRC="/images/new_navbar/below_ambrosia_logo.gif" ALT="---" BORDER="0"><IMG WIDTH="72" HEIGHT="35" SRC="/images/new_navbar/ambrosia_logo_bottom.gif" ALT="Software" BORDER="0"><A TITLE="Read Ambrosia news, articles, web-based discussion, and info on upcoming products" onMouseOver="status='Ambrosia news, articles, web-based discussion, and info on upcoming products'; return true;" onMouseOut="status=''; return true;" HREF="http://www.AmbrosiaSW.com/news/"><IMG WIDTH="100" HEIGHT="35" SRC="/images/new_navbar/news_tab_inactive.gif" ALT="news" BORDER="0"></A><A TITLE="Purchase Ambrosia products, upgrades, CDs, and other paraphernalia" onMouseOver="status='Purchase Ambrosia products, upgrades, CDs, and other paraphernalia'; return true;" onMouseOut="status=''; return true;" HREF="https://secure.AmbrosiaSW.com/cgi-bin/store/hazel.cgi"><IMG WIDTH="100" HEIGHT="35" SRC="/images/new_navbar/store_tab_inactive.gif" ALT="store" BORDER="0"></A><A TITLE="Check out Ambrosia anti-productivity software (games)" onMouseOver="status='Check out Ambrosia anti-productivity software (games)'; return true;" onMouseOut="status=''; return true;" HREF="http://www.AmbrosiaSW.com/games/"><IMG WIDTH="100" HEIGHT="35" SRC="/images/new_navbar/games_tab_active.gif" ALT="*games" BORDER="0"></A><A TITLE="Get info on Ambrosia productivity software" onMouseOver="status='Get info on Ambrosia productivity software'; return true;" onMouseOut="status=''; return true;" HREF="http://www.AmbrosiaSW.com/utilities/"><IMG WIDTH="100" HEIGHT="35" SRC="/images/new_navbar/utilities_tab_inactive.gif" ALT="utilities" BORDER="0"></A><A TITLE="Get help from Ambrosia tech support, product updates, and technical info" onMouseOver="status='Get help from Ambrosia tech support, product updates, and technical info'; return true;" onMouseOut="status=''; return true;" HREF="http://www.AmbrosiaSW.com/support/"><IMG WIDTH="100" HEIGHT="35" SRC="/images/new_navbar/support_tab_inactive.gif" ALT="support" BORDER="0"></A><IMG WIDTH="14" HEIGHT="3" SRC="/images/new_navbar/below_ambrosia_logo.gif" ALT="---" BORDER="0"></TD></TR><!-- END tabs --><!-- BEGIN subbar --><TR><TD WIDTH="600" VALIGN="top"><A TITLE="Check out Ambrosia anti-productivity software (games)" onMouseOver="status='Check out Ambrosia anti-productivity software (games)'; return true;" onMouseOut="status=''; return true;" HREF="http://www.AmbrosiaSW.com/games/"><IMG WIDTH="100" HEIGHT="17" SRC="/images/new_navbar/main_bar_inactive.gif" ALT="main" BORDER="0"></A><A TITLE="View action-oriented games from Ambrosia" onMouseOver="status='View action-oriented games from Ambrosia'; return true;" onMouseOut="status=''; return true;" HREF="/games/action.html"><IMG WIDTH="100" HEIGHT="17" SRC="/images/new_navbar/action_bar_inactive.gif" ALT="action" BORDER="0"></A><A TITLE="View arcade-style games from Ambrosia" onMouseOver="status='View arcade-style games from Ambrosia'; return true;" onMouseOut="status=''; return true;" HREF="/games/arcade.html"><IMG WIDTH="100" HEIGHT="17" SRC="/images/new_navbar/arcade_bar_inactive.gif" ALT="arcade" BORDER="0"></A><A TITLE="View strategy/puzzle games from  Ambrosia" onMouseOver="status='View strategy/puzzle games from  Ambrosia'; return true;" onMouseOut="status=''; return true;" HREF="/games/strategy.html"><IMG WIDTH="100" HEIGHT="17" SRC="/images/new_navbar/strategy_bar_inactive.gif" ALT="strategy" BORDER="0"></A><A TITLE="Go to the main EV Nova web page" onMouseOver="status='Go to the main EV Nova web page'; return true;" onMouseOut="status=''; return true;" HREF="http://www.AmbrosiaSW.com/games/evn/"><IMG WIDTH="200" HEIGHT="17" SRC="/images/new_navbar/evn_bar_active.gif" ALT="EV Nova" BORDER="0"></A></TD></TR><!-- END subbar --></TABLE></TD><TD WIDTH="49%" VALIGN="top" BACKGROUND="/images/new_navbar/bar_spacer.gif"> &nbsp; </TD></TR></TABLE><!-- END big placeholder table -->  <TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+  <TR><TD BGCOLOR="#000000" ALIGN="left" VALIGN="top">
+  
+<font face="Geneva, Verdana, Arial" size="1"><blockquote><h2>Evn Files</h2></blockquote>
+
+<blockquote>View by: 
+<a href=./show.pl?product=evn&category=*&page=8&display=name>Name</a>
+<b>Date</b>
+<a href=./show.pl?product=evn&category=*&page=8&display=rating>Rating</a>
+<a href=./show.pl?product=evn&category=*&page=8&display=downloads>Downloads</a>
+<a href=./show.pl?product=evn&category=*&page=8&display=size>Size</a>
+</blockquote><blockquote><b>Newest Files, Page 8 of 22:</b></blockquote>
+
+<table width='100%' border=0 cellspacing=0 cellpadding=4>
+        <tr><td width="4%" bgcolor=201717>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=201717>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=Fighters_Mod.sit'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Fighters_Mod.sit?path=evn/plugins&file=Fighters_Mod.sit'><b>Fighters Mod</b></a> - 10 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Creates a new version of most small fighters which are just as capable as a medium sized ship, more specifically the Starbridge or Valk, making them practical to buy as your primary ship.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=201717>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/31/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>50 (<a href="javascript:rateDlog('Fighters Mod', 'evn', 'plugins', 'Fighters_Mod.sit', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>458 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Fighters_Mod.sit?path=evn/plugins&file=Fighters_Mod.sit'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=201717>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=151212>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=151212>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> utilities -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=PilotConverter2.sit.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/PilotConverter2.sit.hqx?path=evn/utilities&file=PilotConverter2.sit.hqx'><b>PilotConverter2</b></a> - 597 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Pilot Converter reads pilot files from the original Escape Velocity or Escape Velocity: Override and converts the data to Escape Velocity: Nova pilot files. Now you don't need to make a new pilot if you want to keep playing in the original EV universes using one of the EVC (Escape Velocity Classic) or EVO plugins made for use with Nova.   </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=151212>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/30/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>88 (<a href="javascript:rateDlog('PilotConverter2', 'evn', 'utilities', 'PilotConverter2.sit.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>468 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/PilotConverter2.sit.hqx?path=evn/utilities&file=PilotConverter2.sit.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=151212>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=201717>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=201717>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> cheats -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=Raven_Bay.sit'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Raven_Bay.sit?path=evn/cheats&file=Raven_Bay.sit'><b>Raven Bay</b></a> - 1 k </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> For those REALLY bad cheaters only.  This adds a new free outfit to the game-the raven bay.  The 14 raven limit is more to keep the computer from crashing than to make it fair.  Email any questions or comments to sec222@mac.com .  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=201717>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/29/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>61 (<a href="javascript:rateDlog('Raven Bay', 'evn', 'cheats', 'Raven_Bay.sit', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>1973 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Raven_Bay.sit?path=evn/cheats&file=Raven_Bay.sit'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=201717>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=151212>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=151212>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=Added_Gefjon_Run'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Added_Gefjon_Run?path=evn/plugins&file=Added_Gefjon_Run'><b>Added Gefjon Run</b></a> - - </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This plugin is for 1.0.5 .  It adds the Geflon Run back into the game.  Made by Stephen.  Email questions and comments to sec222@mac.com .  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=151212>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/28/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>60 (<a href="javascript:rateDlog('Added Gefjon Run', 'evn', 'plugins', 'Added_Gefjon_Run', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>869 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Added_Gefjon_Run?path=evn/plugins&file=Added_Gefjon_Run'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=151212>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=201717>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=201717>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=Planet_Rico.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Planet_Rico.hqx?path=evn/plugins&file=Planet_Rico.hqx'><b>Planet Rico</b></a> - 1.59 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Planet Rico adds two new ships, a number of new weapons (like the rock blaster), and a few non-weapon outfits.  There are three new systems and two new governments that fight over a planet inbetween their systems.  I am unsure of compatability with other plugs and EVN 1.0.5.  Also to developers, feel free to use any ship or weapon graphics, or add to my plug and re-submit.  Contact me at falchoin@yahoo.com for questions or comments  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=201717>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/27/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>76 (<a href="javascript:rateDlog('Planet Rico', 'evn', 'plugins', 'Planet_Rico.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>1246 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Planet_Rico.hqx?path=evn/plugins&file=Planet_Rico.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=201717>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=151212>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=151212>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=Path_of_the_Wraith_fix.sit.bin'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Path_of_the_Wraith_fix.sit.bin?path=evn/plugins&file=Path_of_the_Wraith_fix.sit.bin'><b>Path of the Wraith fix</b></a> - 55 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This little plug-in makes Path of the Wraith work properly with the latest version of EVNova. Please report any further bugs (possibly due to version changes of EVN) to Jackal at mindless_v2@yahoo.com  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=151212>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/25/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>60 (<a href="javascript:rateDlog('Path of the Wraith fix', 'evn', 'plugins', 'Path_of_the_Wraith_fix.sit.bin', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>648 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Path_of_the_Wraith_fix.sit.bin?path=evn/plugins&file=Path_of_the_Wraith_fix.sit.bin'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=151212>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=201717>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=201717>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=Hyperioid_Upgrade.sit'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Hyperioid_Upgrade.sit?path=evn/plugins&file=Hyperioid_Upgrade.sit'><b>Hyperioid Upgrade</b></a> - 17 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> I am currently developing a hyperioid string and just finish a weapon glow.  It looks cool so I thought that I'd submit it.  it gives the hyperioid a bluish light instead of yellow.  Very cool.  Made by Stephen.  sec222@mac.com  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=201717>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/24/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>73 (<a href="javascript:rateDlog('Hyperioid Upgrade', 'evn', 'plugins', 'Hyperioid_Upgrade.sit', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>302 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Hyperioid_Upgrade.sit?path=evn/plugins&file=Hyperioid_Upgrade.sit'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=201717>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=151212>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=151212>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=Bio_Weapons_Run_Fix.sit'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Bio_Weapons_Run_Fix.sit?path=evn/plugins&file=Bio_Weapons_Run_Fix.sit'><b>Bio Weapons Run Fix</b></a> - 1 k </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This plugin gets rid of the bioweapon trade routes.  For any questions or comments, email me at sec222@mac.com .  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=151212>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/24/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>60 (<a href="javascript:rateDlog('Bio Weapons Run Fix', 'evn', 'plugins', 'Bio_Weapons_Run_Fix.sit', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>111 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Bio_Weapons_Run_Fix.sit?path=evn/plugins&file=Bio_Weapons_Run_Fix.sit'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=151212>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=201717>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=201717>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=Galvenic_Pirates__v2.sit.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Galvenic_Pirates__v2.sit.hqx?path=evn/plugins&file=Galvenic_Pirates__v2.sit.hqx'><b>Galvenic Pirates  v2</b></a> - 1.34 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This is my third EVN Mod. This plugin will add a mission string to the game. There are 37 missions, 6 playable ships including a modified Thunderhead and Fed Destroyer, and many weapons, including my own Nuclear Warhead, a modified Radar missle and ionization turrets. This version adds variants and fixes some things. E-Mail me at jwillie194@netscape.net if you have any questions.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=201717>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/23/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>60 (<a href="javascript:rateDlog('Galvenic Pirates  v2', 'evn', 'plugins', 'Galvenic_Pirates__v2.sit.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>1076 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Galvenic_Pirates__v2.sit.hqx?path=evn/plugins&file=Galvenic_Pirates__v2.sit.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=201717>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=151212>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=151212>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=AdditiveColorTtab.bin.sit.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/AdditiveColorTtab.bin.sit.hqx?path=evn/plugins&file=AdditiveColorTtab.bin.sit.hqx'><b>AdditiveColorTtab.bin</b></a> - 38 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This plugin overrides the standard transparency table resource from Nova Graphics 1 with a much better (IMO) one.  I made this because it has always bugged me how awful Vell-Os and some Polaris ships look in 8-bit.  They look bad because the standard transparency table that comes with Nova is designed for Alpha-Blending, while engine glows, running lights, and weapon glows are designed for Additive color.  So when your Vell-Os Dart accelerates, instead of the glow being added to the base sprite and making it glow brighter, it is merely drawn opaque on top of it.  See the picture at http://www.rail.com/peter/images/AdditveVs.jpg for an example of this.  My plugin will make Vell-Os ships look (mostly) the way they were supposed to, and Polaris ships' running lights now blend in properly.  I would consider this plugin a must for anyone who has to use 8-bit color (like myself).  Made by Vaumnou, 5/22/03.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=151212>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/22/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>80 (<a href="javascript:rateDlog('AdditiveColorTtab.bin', 'evn', 'plugins', 'AdditiveColorTtab.bin.sit.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>436 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/AdditiveColorTtab.bin.sit.hqx?path=evn/plugins&file=AdditiveColorTtab.bin.sit.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=151212>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=201717>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=201717>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> cheats -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=Fuel_Fix.zip'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Fuel_Fix.zip?path=evn/cheats&file=Fuel_Fix.zip'><b>Fuel Fix</b></a> - 1 k </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> A plug that gives you 4 solar panels for those times when you are stuck in the middle of nowhere. Only works on non-fed planets. By Conquerer.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=201717>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/22/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>41 (<a href="javascript:rateDlog('Fuel Fix', 'evn', 'cheats', 'Fuel_Fix.zip', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>1425 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Fuel_Fix.zip?path=evn/cheats&file=Fuel_Fix.zip'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=201717>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=151212>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=151212>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=dimensionalgatesv1-0.Bin'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/dimensionalgatesv1-0.Bin?path=evn/plugins&file=dimensionalgatesv1-0.Bin'><b>dimensionalgatesv1-0</b></a> - 2.28 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> this plugin adds  a lot of ships, outfits,planets,systems and missions to the game made by omega. mail me at robert_me@lycos.de  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=151212>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/21/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>60 (<a href="javascript:rateDlog('dimensionalgatesv1-0', 'evn', 'plugins', 'dimensionalgatesv1-0.Bin', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>1453 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/dimensionalgatesv1-0.Bin?path=evn/plugins&file=dimensionalgatesv1-0.Bin'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=151212>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=201717>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=201717>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=Reliant_2.0_.sit'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Reliant_2.0_.sit?path=evn/plugins&file=Reliant_2.0_.sit'><b>Reliant 2.0</b></a> - 1.05 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This is a update to reliant. I am not the creator of the original, but I am taking this from cheat to regular plug. The money is reduced to fifty thou, the grammar is corrected, and there is a plot to it. THIS IS NOT A STRING PLOT! Also, there are movies in this version.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=201717>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/18/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>74 (<a href="javascript:rateDlog('Reliant 2.0', 'evn', 'plugins', 'Reliant_2.0_.sit', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>588 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Reliant_2.0_.sit?path=evn/plugins&file=Reliant_2.0_.sit'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=201717>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=151212>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=151212>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> cheats -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=Pirate_Hunter_II_folder_.sit'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Pirate_Hunter_II_folder_.sit?path=evn/cheats&file=Pirate_Hunter_II_folder_.sit'><b>Pirate Hunter II folder</b></a> - 301 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Hi This is my second Pirate Hunter pilot file. This ship can take on the Captain Hector Starbridge it can not win, nor can Captain Hector destroy Pirate Hunter II. This pilot file comes with pilotlog.txt, and pictures of it fighting the Captain Hector ship, using 50 Winter Tempests and other weapons. This pilot file may work on EV Nova 1.0.5. It has more armor, missiles, better shields than, Pirate Hunter, it also has a little over 2,500,000.00 million credits in the bank. Some of the Weapons this ship has can give the game invincible ships a real hard time From Robert e-mail Robert00002@aol.com   </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=151212>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/17/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>60 (<a href="javascript:rateDlog('Pirate Hunter II folder', 'evn', 'cheats', 'Pirate_Hunter_II_folder_.sit', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>3100 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Pirate_Hunter_II_folder_.sit?path=evn/cheats&file=Pirate_Hunter_II_folder_.sit'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=151212>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=201717>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=201717>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=obarskywarev1.1.sea.Bin'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/obarskywarev1.1.sea.Bin?path=evn/plugins&file=obarskywarev1.1.sea.Bin'><b>obarskywarev1.1</b></a> - 1.45 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Since I must of been half-asleep when I made the Obarskyware plug, I found quite a number of pretty major bugs in it. So here's version 1.1. Questions and comments should go to evilcownevil@hotmail.com.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=201717>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/17/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>60 (<a href="javascript:rateDlog('obarskywarev1.1', 'evn', 'plugins', 'obarskywarev1.1.sea.Bin', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>386 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/obarskywarev1.1.sea.Bin?path=evn/plugins&file=obarskywarev1.1.sea.Bin'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=201717>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=151212>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=151212>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=Galv_Pirate__Fix_1.sit.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Galv_Pirate__Fix_1.sit.hqx?path=evn/plugins&file=Galv_Pirate__Fix_1.sit.hqx'><b>Galv Pirate  Fix 1</b></a> - 1 k </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This small plugin fixes a bug in Galvenic Pirates with the Turbulence Thunderhead bay. They should now be able to be launched. Send any comments or questions to jwillie194@netscape.net.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=151212>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/17/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>70 (<a href="javascript:rateDlog('Galv Pirate  Fix 1', 'evn', 'plugins', 'Galv_Pirate__Fix_1.sit.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>257 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Galv_Pirate__Fix_1.sit.hqx?path=evn/plugins&file=Galv_Pirate__Fix_1.sit.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=151212>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=201717>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=201717>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=Balances_Additions_v2.sit.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Balances_Additions_v2.sit.hqx?path=evn/plugins&file=Balances_Additions_v2.sit.hqx'><b>Balances Additions v2</b></a> - 57 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Hello, this is my first released mod for EVN. This will balance out blaster power and add two new outfits, the Superheavy Blaster turret and a good generation unit. The prices aren't low and the ton space required isn't low either, so in my opinion it's not cheating. The Fed Destroyer also now has a max of 4 turrets and the Fed Carrier disables at 10%. This version makes the Fusion Pulse Battery shots faster but have less reach. You can send any comments to me (Jason) at jwillie194@netscape.net.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=201717>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/17/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>60 (<a href="javascript:rateDlog('Balances Additions v2', 'evn', 'plugins', 'Balances_Additions_v2.sit.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>168 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Balances_Additions_v2.sit.hqx?path=evn/plugins&file=Balances_Additions_v2.sit.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=201717>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=151212>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=151212>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=Galvenic_Pirates.sit.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Galvenic_Pirates.sit.hqx?path=evn/plugins&file=Galvenic_Pirates.sit.hqx'><b>Galvenic Pirates</b></a> - 1.34 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This is my third EVN Mod. This plugin will add a mission string to the game. There are 37 missions, 6 playable ships including a modified Thunderhead and Fed Destroyer, and many weapons, including my own Nuclear Warhead, a modified Radar missle and ionization turrets. E-Mail me at jwillie194@netscape.net if you have any questions.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=151212>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/17/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>72 (<a href="javascript:rateDlog('Galvenic Pirates', 'evn', 'plugins', 'Galvenic_Pirates.sit.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>649 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Galvenic_Pirates.sit.hqx?path=evn/plugins&file=Galvenic_Pirates.sit.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=151212>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=201717>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=201717>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=obarskyware.sea.Bin'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/obarskyware.sea.Bin?path=evn/plugins&file=obarskyware.sea.Bin'><b>obarskyware</b></a> - 792 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Obarskyware v1.0 - This plug-in for EV Nova adds one new government, one new planet, three new outfits, a couple new missions, and a myriad of other things to your game. Not capatible with AAC Paint Station Prime. My first plug-in. Contact evilcownevil@hotmail.com for questions and comments about the plug.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=201717>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/13/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>68 (<a href="javascript:rateDlog('obarskyware', 'evn', 'plugins', 'obarskyware.sea.Bin', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>315 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/obarskyware.sea.Bin?path=evn/plugins&file=obarskyware.sea.Bin'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=201717>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=151212>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=151212>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> essentials -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=thepcnovasong.mp3'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/thepcnovasong.mp3?path=evn/essentials&file=thepcnovasong.mp3'><b>thepcnovasong</b></a> - 5.08 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> For those of you anxiously awaiting EV Nova for the PC, and also for those Mac users who are watching the port of EV Nova to the PC with a skeptical eye, Tim &quot;Pikeman&quot; Wright has composed a song for you (in .mp3 format): &quot;The PC Nova Song&quot;  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=151212>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/13/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>86 (<a href="javascript:rateDlog('thepcnovasong', 'evn', 'essentials', 'thepcnovasong.mp3', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>4294 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/thepcnovasong.mp3?path=evn/essentials&file=thepcnovasong.mp3'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=151212>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=201717>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=201717>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> cheats -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=ultimateescort.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/ultimateescort.hqx?path=evn/cheats&file=ultimateescort.hqx'><b>ultimateescort</b></a> - 17 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This is a simple plug-in that gives you a fleet of 12 Ravens and a cloaking device.  This takes the hard work out of finding those escorts.  There is no limit to the number of &quot;fleets&quot; you can have.  Made by drunken pirate. Send comments and questions to tsteenburg@wesleyan.edu  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=201717>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/13/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>53 (<a href="javascript:rateDlog('ultimateescort', 'evn', 'cheats', 'ultimateescort.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>2664 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/ultimateescort.hqx?path=evn/cheats&file=ultimateescort.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=201717>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=151212>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=151212>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=Storm_Chaingun.sit'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Storm_Chaingun.sit?path=evn/plugins&file=Storm_Chaingun.sit'><b>Storm Chaingun</b></a> - 1 k </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This plugin simple makes the storm chaingun fire quicker like there were 4 chainguns, not slower.  Done by Stephen.  Email me at sec222@mac.com .  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=151212>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/10/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>53 (<a href="javascript:rateDlog('Storm Chaingun', 'evn', 'plugins', 'Storm_Chaingun.sit', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>416 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Storm_Chaingun.sit?path=evn/plugins&file=Storm_Chaingun.sit'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=151212>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=201717>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=201717>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=Laser_Fix.sit.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Laser_Fix.sit.hqx?path=evn/plugins&file=Laser_Fix.sit.hqx'><b>Laser Fix</b></a> - 7 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This Plug makes the BioRelay Laser look more cool (with a firy corona). I know there are other ones in the world. But in my option the modified lasers of these ones look not much better So I designed on my own.     My second one.....................  Mr.Max   </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=201717>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/5/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>40 (<a href="javascript:rateDlog('Laser Fix', 'evn', 'plugins', 'Laser_Fix.sit.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>812 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Laser_Fix.sit.hqx?path=evn/plugins&file=Laser_Fix.sit.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=201717>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=151212>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=151212>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=More_Additions_v2.sit.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/More_Additions_v2.sit.hqx?path=evn/plugins&file=More_Additions_v2.sit.hqx'><b>More Additions v2</b></a> - 108 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This is my second released mod for EVN. This will add two weapons to the game. One is the shock artillery unit, a fast and heavy-damaging turret, and the other is the nuclear warhead, a powerful missle with a huge blast after it explodes. One Auroran Crusier variant and one Fed Destroyer variant holds these weapons. This version fixes a shock artillery bug. You can send any comments to me at jwillie194@netscape.net.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=151212>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/4/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>46 (<a href="javascript:rateDlog('More Additions v2', 'evn', 'plugins', 'More_Additions_v2.sit.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>451 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/More_Additions_v2.sit.hqx?path=evn/plugins&file=More_Additions_v2.sit.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=151212>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=201717>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=201717>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=Outfits_enabler.sit'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Outfits_enabler.sit?path=evn/plugins&file=Outfits_enabler.sit'><b>Outfits enabler</b></a> - 3 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> By STraven.This plugin allow you to buy some outfits and a ship which, normally, are unavalaible for purchase. Their prices, avalaibility, and mass arn't changed, so don't expect a cheat plug. This is my first plug, but it's fully tested and operationnal. Created for Nova 1.0.4. Compatibility with other version is possible, but not guranteed.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=201717>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/4/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>63 (<a href="javascript:rateDlog('Outfits enabler', 'evn', 'plugins', 'Outfits_enabler.sit', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>832 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Outfits_enabler.sit?path=evn/plugins&file=Outfits_enabler.sit'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=201717>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=151212>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=151212>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=Turreted_CPL.sit'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Turreted_CPL.sit?path=evn/plugins&file=Turreted_CPL.sit'><b>Turreted CPL</b></a> - 19 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This is a simple plug that adds a balanced outfit: the turreted compacitor pulse laser.   Every thing is mostly the same as the original.  Read the Readme! Comments, question: rolley49@yahoo.com Should be compatible with any non weapon/outfit.     </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=151212>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/3/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>71 (<a href="javascript:rateDlog('Turreted CPL', 'evn', 'plugins', 'Turreted_CPL.sit', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>535 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Turreted_CPL.sit?path=evn/plugins&file=Turreted_CPL.sit'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=151212>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=201717>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=201717>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=Galvenic_Pirates_1.sit.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Galvenic_Pirates_1.sit.hqx?path=evn/plugins&file=Galvenic_Pirates_1.sit.hqx'><b>Galvenic Pirates 1</b></a> - 241 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This is my third EVN Mod. This plugin will add a mission string to the game. This plugin is not finished yet it's a release to see if people want to see the rest of the string or not. Send comments to jwillie194@netscape.net (be polite), and rate it on this page. Those two factors will determine whether I will continue or not.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=201717>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>4/27/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>78 (<a href="javascript:rateDlog('Galvenic Pirates 1', 'evn', 'plugins', 'Galvenic_Pirates_1.sit.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>272 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Galvenic_Pirates_1.sit.hqx?path=evn/plugins&file=Galvenic_Pirates_1.sit.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=201717>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=151212>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=151212>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> utilities -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=EVNPluginManager1.3.sit'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/EVNPluginManager1.3.sit?path=evn/utilities&file=EVNPluginManager1.3.sit'><b>EVNPluginManager1.3</b></a> - 560 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Version 1.3 of the EVN Plugin Manager. Make your life easier by organizing your plugins. Now with Drag  Drop! Windows version will be released when EVN for Windows gets released. Enjoy! By iBooks, send email to booksleyATsympaticoDOTca  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=151212>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>4/27/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>72 (<a href="javascript:rateDlog('EVNPluginManager1.3', 'evn', 'utilities', 'EVNPluginManager1.3.sit', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>1263 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/EVNPluginManager1.3.sit?path=evn/utilities&file=EVNPluginManager1.3.sit'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=151212>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=201717>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=201717>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=AACPaintStationPrime104.sit.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/AACPaintStationPrime104.sit.hqx?path=evn/plugins&file=AACPaintStationPrime104.sit.hqx'><b>AACPaintStationPrime104</b></a> - 546 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> An update of ArcAngel Counterstrikes Paint Station Prime.  Compatible with 1.0.4.  This version also adds another station in the Aurora system, a new landing pic and another colour.  Updated by Nibbs.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=201717>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>4/25/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>73 (<a href="javascript:rateDlog('AACPaintStationPrime104', 'evn', 'plugins', 'AACPaintStationPrime104.sit.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>992 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/AACPaintStationPrime104.sit.hqx?path=evn/plugins&file=AACPaintStationPrime104.sit.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=201717>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=151212>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=151212>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=GameEnhancements1.2.sit.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/GameEnhancements1.2.sit.hqx?path=evn/plugins&file=GameEnhancements1.2.sit.hqx'><b>GameEnhancements1.2</b></a> - 24 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1">  This plug enhances many areas of the game. It adds links between many storylines and makes it so that the Forced Fed String is no longer a dead end. There is now a new battle at the end of the Rebel string. This plugin also incorporates my RebelSideMissionsFix1.0 plugin.  This is version 1.2 which adds support for 1.0.4 and fixes a major bug.  Enjoy. Version 1.2 released 4/22/03. Created by MacDevil. Send questions and comments to AGS848@AOL.com.     </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=151212>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>4/22/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>76 (<a href="javascript:rateDlog('GameEnhancements1.2', 'evn', 'plugins', 'GameEnhancements1.2.sit.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>1380 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/GameEnhancements1.2.sit.hqx?path=evn/plugins&file=GameEnhancements1.2.sit.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=151212>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=201717>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=201717>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> plugins -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=More_Additions.sit.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/More_Additions.sit.hqx?path=evn/plugins&file=More_Additions.sit.hqx'><b>More Additions</b></a> - 76 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This is my second released mod for EVN. This will add two weapons to the game. One is the shock artillery unit, a fast and heavy-damaging turret, and the other is the nuclear warhead, a powerful missle with a huge blast after it explodes. One Auroran Crusier variant and one Fed Destroyer variant holds these weapons. You can send any comments to me at jwillie194@netscape.net.    </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=201717>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>4/22/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>68 (<a href="javascript:rateDlog('More Additions', 'evn', 'plugins', 'More_Additions.sit.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>483 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/More_Additions.sit.hqx?path=evn/plugins&file=More_Additions.sit.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=201717>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=151212>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=151212>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> cheats -  <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&file=The_Elite_Nova_Plug-In.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/The_Elite_Nova_Plug-In.hqx?path=evn/cheats&file=The_Elite_Nova_Plug-In.hqx'><b>The Elite Nova Plug-In</b></a> - 770 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This plug-in I have made enhances the EVN Univers to its fullest potential. I have configured it so that you can buy some of the most powerful starships in the universe at any shipyard, and for some they are almost free. I have also made a few of the ships completely indistructable like the polaris scarab, arachnid, and the raven. I have also made it so that you can purchase many of the polaris outfits for just 1 credit each and as many of them as you want. I have also allowed it so that when you start a new game, you are already in control of all of the planets.  There are also some other little tweaks I have in store.  If you have any questions or comments about my plug-in, please contact me at mpfd28@netscape.net  This is version 1.00, the release date is 4/21/03.                                                   Contributed by,                                                                  Dan Muir  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=151212>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>4/21/2003</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>55 (<a href="javascript:rateDlog('The Elite Nova Plug-In', 'evn', 'cheats', 'The_Elite_Nova_Plug-In.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>6354 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/The_Elite_Nova_Plug-In.hqx?path=evn/cheats&file=The_Elite_Nova_Plug-In.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=151212>&nbsp;</td></tr>
+</table>
+
+<BLOCKQUOTE><b>
+Result Pages: <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&page=7'>&lt;&lt; Previous</a> <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&page=1'>1</a> <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&page=2'>2</a> <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&page=3'>3</a> <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&page=4'>4</a> <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&page=5'>5</a> <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&page=6'>6</a> <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&page=7'>7</a> 8</a> <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&page=9'>9</a> <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&page=10'>10</a> <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&page=11'>11</a> <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&page=12'>12</a> <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&page=13'>13</a> <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&page=14'>14</a> <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&page=15'>15</a> <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&page=16'>16</a> <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&page=17'>17</a> <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&page=18'>18</a> <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&page=19'>19</a> <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&page=20'>20</a> <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&page=21'>21</a> <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&page=22'>22</a> <a href='/cgi-bin/vftp/show.pl?product=evn&category=*&display=date&page=9'>Next &gt;&gt;</a>
+</b></blockquote><script language="JavaScript">
+//<!--
+function sendDlog () {
+    var winProps = 'toolbar=0,resizable=1,scrollbars=1,location=0,directories=0,menubar=0,width=620,height=400';
+    var winName = ('sendDlog');
+    var w = window.open ('', winName, winProps);
+	    
+    w.document.close();
+
+    w.document.writeln ('<head><title>Submit a File</title></head><BODY BGCOLOR="#FFFFFF" BACKGROUND = "/images/ribbed_background.gif">');
+
+w.document.writeln ('<CENTER>');
+w.document.writeln ('<TABLE BORDER="0" CELLPADDING="8" BORDER="0" CELLSPACING="0">');
+w.document.writeln ('<TR>');
+w.document.writeln ('<TD ALIGN="center" VALIGN="middle">');
+w.document.writeln ('<IMG SRC="/images/buttons/1button.gif" WIDTH="55" HEIGHT="55" BORDER="0" ALT="1">');
+w.document.writeln ('</TD>');
+w.document.writeln ('<TD ALIGN="left" VALIGN="top">');
+w.document.writeln ('<FONT SIZE="4" FACE="Helvetica" color="#000000">');
+w.document.writeln ('<B>Please test and proofread the files you\'re submitting</B>');
+w.document.writeln ('</FONT><BR>');
+w.document.writeln ('<FONT SIZE="1" FACE="Geneva, Arial, Helvetica" color="#000000">');
+w.document.writeln ('Keep in mind that thousands of people may be downloading and using the files you submit here.  Try to present yourself as best you can by testing your submission on a number of machines, proof-reading any text, and perhaps having others do a sanity-check on it before you submit it.  It\'s far easier to catch mistakes ahead of time than to try to correct them after the fact.<BR>');
+w.document.writeln ('</FONT>');
+w.document.writeln ('</TD>');
+w.document.writeln ('</TR>');
+w.document.writeln ('<TR>');
+w.document.writeln ('<TD ALIGN="center" VALIGN="middle">');
+w.document.writeln ('<IMG SRC="/images/buttons/2button.gif" WIDTH="55" HEIGHT="55" BORDER="0" ALT="2">');
+w.document.writeln ('</TD>');
+w.document.writeln ('<TD ALIGN="left" VALIGN="top">');
+w.document.writeln ('<FONT SIZE="4" FACE="Helvetica" color="#000000">');
+w.document.writeln ('<B>Compress your files with Stuffit or Compact Pro before submitting</B>');
+w.document.writeln ('</FONT><BR>');
+w.document.writeln ('<FONT SIZE="1" FACE="Geneva, Arial, Helvetica" color="#000000">');
+w.document.writeln ('You must use a program such as <A HREF="http://www.aladdinsys.com/expander/expander_mac.html">StuffIt</A> or <A HREF="http://hyperarchive.lcs.mit.edu/HyperArchive/Archive/cmp/compact-pro-151.hqx">Compact Pro</A> to compress your files before you can submit them.  Files compressed with StuffIt should be suffixed with <B>.sit</B>, files compressed with Compact Pro should be suffixed with <B>.cpt</B>, and self-extracting archives created by either program should be suffixed with <B>.sea</B>.<BR>');
+w.document.writeln ('</FONT>');
+w.document.writeln ('</TD>');
+w.document.writeln ('</TR>');
+w.document.writeln ('<TR>');
+w.document.writeln ('<TD ALIGN="center" VALIGN="middle">');
+w.document.writeln ('<IMG SRC="/images/buttons/3button.gif" WIDTH="55" HEIGHT="55" BORDER="0" ALT="3">');
+w.document.writeln ('</TD>');
+w.document.writeln ('<TD ALIGN="left" VALIGN="top">');
+w.document.writeln ('<FONT SIZE="4" FACE="Helvetica" color="#000000">');
+w.document.writeln ('<B>Use MacBinary or HQX encoding on your files before submitting them</B>');
+w.document.writeln ('</FONT><BR>');
+w.document.writeln ('<FONT SIZE="1" FACE="Geneva, Arial, Helvetica" color="#000000">');
+w.document.writeln ('After you\'ve compressed your files as outlined above, please encode them using a program like <A HREF="http://hyperarchive.lcs.mit.edu/HyperArchive/Archive/cmp/mac-binary-101.hqx">MacBinary</A> or <A HREF="http://hyperarchive.lcs.mit.edu/HyperArchive/Archive/cmp/binhex-50.hqx">BinHex</A> (StuffIt and other products can also HQX-encode files) before you submit them.  This will allow others to download and decompress your files more easily and reduce the risk of the archives being corrupted in transit.  MacBinary-encoded files should be suffixed with <B>.bin</B>, HQX-encoded files should be suffixed with <B>.hqx</B>.<BR>');
+w.document.writeln ('</FONT>');
+w.document.writeln ('</TD>');
+w.document.writeln ('</TR>');
+w.document.writeln ('<TR>');
+w.document.writeln ('<TD ALIGN="center" VALIGN="middle">');
+w.document.writeln ('<IMG SRC="/images/buttons/4button.gif" WIDTH="55" HEIGHT="55" BORDER="0" ALT="4">');
+w.document.writeln ('</TD>');
+w.document.writeln ('<TD ALIGN="left" VALIGN="top">');
+w.document.writeln ('<FONT SIZE="4" FACE="Helvetica" color="#000000">');
+w.document.writeln ('<B>Enter a good name and description for your submission</B>');
+w.document.writeln ('</FONT><BR>');
+w.document.writeln ('<FONT SIZE="1" FACE="Geneva, Arial, Helvetica" color="#000000">');
+w.document.writeln ('Try to give your submission an appropriate name (eg <B>MyCoolPlugin.sit.bin</B> -- avoid the use of spaces, quotes, apostrophes, and other non-alphanumeric characters), and a description that is verbose enough to give people a good idea what the file is about, but also succinct enough that people will be able to read it quickly and easily.  Including a version number and/or release date, as well as the author\'s name in the description is helpful, too.<BR>');
+w.document.writeln ('</FONT>');
+w.document.writeln ('</TD>');
+w.document.writeln ('</TR>');
+w.document.writeln ('<TR>');
+w.document.writeln ('<TD ALIGN="left" VALIGN="top" COLSPAN="2">');
+w.document.writeln ('<FONT SIZE="1" FACE="Geneva, Arial, Helvetica" color="#000000">');
+w.document.writeln ('Once you\'ve done all that, click the <B>Submit</B> button below, and away she goes!  Once your file has been submitted, it will be reviewed by a site ');
+w.document.writeln ('administrator.  After review the admin will make your file available for ');
+w.document.writeln ('download in the appropriate directory of the add ons page.  ');
+w.document.writeln ('If you don\'t see your file right away, please be patient.  Thanks!');
+w.document.writeln ('</FONT>');
+w.document.writeln ('</TD>');
+w.document.writeln ('</TR>');
+w.document.writeln ('</TABLE>');
+w.document.writeln ('</CENTER>');
+    w.document.writeln ('<font face="Geneva, Verdana, Arial" size="1">');
+
+    w.document.writeln ('<form enctype="multipart/form-data" action=http://www.ambrosiasw.com/cgi-bin/vftp/upload.pl method=post>');
+    w.document.writeln ('<p><B>File:</B> <input name=sentfile type=file></p>');
+    w.document.writeln ('<p><b>Description</b>:</p>'); 
+    w.document.writeln ('<p><textarea cols=90 rows=8 name=description autowrap>');
+    w.document.writeln ('</textarea></p>'); 
+    w.document.writeln ('<p>For this product: <select name=target>'); 
+    w.document.writeln ('<option  value=aki>aki');
+    w.document.writeln ('<option  value=apeiron>apeiron');
+    w.document.writeln ('<option  value=ares>ares');
+    w.document.writeln ('<option  value=avara>avara');
+    w.document.writeln ('<option  value=barrack>barrack');
+    w.document.writeln ('<option  value=bt>bt');
+    w.document.writeln ('<option  value=chiral>chiral');
+    w.document.writeln ('<option  value=coldstone>coldstone');
+    w.document.writeln ('<option  value=colorswitch>colorswitch');
+    w.document.writeln ('<option  value=cythera>cythera');
+    w.document.writeln ('<option  value=dr>dr');
+    w.document.writeln ('<option  value=eclipse>eclipse');
+    w.document.writeln ('<option  value=ev>ev');
+    w.document.writeln ('<option selected value=evn>evn');
+    w.document.writeln ('<option  value=evo>evo');
+    w.document.writeln ('<option  value=ferazel>ferazel');
+    w.document.writeln ('<option  value=harry>harry');
+    w.document.writeln ('<option  value=maelstrom>maelstrom');
+    w.document.writeln ('<option  value=mr>mr');
+    w.document.writeln ('<option  value=pog>pog');
+    w.document.writeln ('<option  value=pop-pop>pop-pop');
+    w.document.writeln ('<option  value=ragnarok>ragnarok');
+    w.document.writeln ('<option  value=slithereens>slithereens');
+    w.document.writeln ('<option  value=snapzpro>snapzpro');
+    w.document.writeln ('<option  value=snapzprox>snapzprox');
+    w.document.writeln ('<option  value=swoop>swoop');
+    w.document.writeln ('<option  value=uplink>uplink');
+    w.document.writeln ("</select><input type=submit value=Submit></p></form></body>");
+    w.document.close();
+    return;
+    }
+
+function rmmvDlog (cleanfile, product, category, file) {
+    var winProps = 'toolbar=0,location=0,directories=0,menubar=0,width=300,height=120';
+    var winName = ('rmmvDlog');
+    var w = window.open ('', winName, winProps);
+    w.document.close();
+    w.document.writeln ('<head><title>Move or Delete "'+cleanfile+'"</title></head><body bgcolor=#000000 link=#AA1122 alink=#881122 vlink=#881122 text=#888888 background="">');
+    w.document.writeln ('<font face="Geneva, Verdana, Arial" size="1"><b>Move or Delete "'+cleanfile+'"</b>');
+    w.document.writeln ('<form action="http://www.ambrosiasw.com/cgi-bin/vftp/rm-mv.pl" method=post>');
+    w.document.writeln ('<input type=hidden name=product value="'+product+'">'); 
+    w.document.writeln ('<input type=hidden name=category value="'+category+'">'); 
+    w.document.writeln ('<input type=hidden name=file value="'+file+'">'); 
+    w.document.writeln ('<p>Password: <input type=password name=pass size=8></p>'); 
+    w.document.writeln ('<select name=target><option value=remove>Delete'); 
+    w.document.writeln ('<option value=cheats>cheats');
+    w.document.writeln ('<option value=essentials>essentials');
+    w.document.writeln ('<option value=guides>guides');
+    w.document.writeln ('<option value=plugins>plugins');
+    w.document.writeln ('<option value=utilities>utilities');
+    w.document.writeln ('</select>'); 
+    w.document.writeln ('<input type=submit value="Do It"></form></body></html>');
+    w.document.close();
+    return;
+    }
+
+function rateDlog (cleanfile, product, category, file, admin) {
+    var winProps = 'toolbar=0,location=0,directories=0,menubar=0,width=220,height=120';
+    var winName = ('rateDlog');
+    var w = window.open ('', winName, winProps);
+    w.document.close();
+    w.document.writeln ('<head><title>Rate "'+cleanfile+'"</title></head><body bgcolor=#000000 link=#AA1122 alink=#881122 vlink=#881122 text=#888888 background="">');
+    w.document.writeln ('<font face="Geneva, Verdana, Arial" size="1"><b>Rate "'+cleanfile+'"</b>');
+    w.document.writeln ('<form action="http://www.ambrosiasw.com/cgi-bin/vftp/rating.pl" method=post>');
+    w.document.writeln ('<input type=hidden name=product value="'+product+'">'); 
+    w.document.writeln ('<input type=hidden name=category value="'+category+'">'); 
+    w.document.writeln ('<input type=hidden name=file value="'+file+'">'); 
+    w.document.writeln ('<p><select name=vote>'); 
+    w.document.writeln ('<option value="">Choose a Value<option value=5>5 (Excellent)<option value=4>4<option value=3>3<option value=2>2<option value=1>1 (Terrible)');
+    if (admin) { 
+      w.document.writeln ('<option value="reset">Reset'); 
+      }
+    w.document.writeln ('</select><input type=submit value="Rate It"></p>');
+    if (admin) { 
+      w.document.writeln ('Password for Reset: <input type=password name=pass size=8>'); 
+      }
+    w.document.writeln ('</form></body></html>'); 
+    w.document.close();
+    return;
+    }
+
+function descDlog (cleanfile, product, category, file, description) {
+    var winProps = 'toolbar=0,location=0,directories=0,menubar=0,width=500,height=240';
+    var winName = ('descDlog');
+    var w = window.open ('', winName, winProps);
+    w.document.close();
+    w.document.writeln ('<head><title>Describe "'+cleanfile+'"</title></head><body bgcolor=#000000 link=#AA1122 alink=#881122 vlink=#881122 text=#888888 background="">');
+    w.document.writeln ('<font face="Geneva, Verdana, Arial" size="1"><b>Describe "'+cleanfile+'"</b>');
+    w.document.writeln ('<form action=http://www.ambrosiasw.com/cgi-bin/vftp/describe.pl method=post>');
+    w.document.writeln ('<input type=hidden name=product value="'+product+'">'); 
+    w.document.writeln ('<input type=hidden name=category value="'+category+'">'); 
+    w.document.writeln ('<input type=hidden name=file value="'+file+'">'); 
+    w.document.writeln ('<p><textarea cols=72 rows=8 name=description autowrap>');
+    w.document.writeln (description);
+    w.document.writeln ('</textarea></p>'); 
+    w.document.writeln ('<p>Password: <input type=password name=pass size=8></p>'); 
+    w.document.writeln ('<input type=submit value="Enter Description"></form></body></html>');
+    w.document.close();
+    return;
+    }
+    
+//-->
+</script>
+
+</TD></TR><TR><TD BACKGROUND='/images/up_gradient.gif' WIDTH='100%' HEIGHT='8' COLSPAN='2'><IMG SRC='/images/small_invisible_spacer.gif' WIDTH='4' HEIGHT='4'></TD></TR></TABLE><BR><CENTER><IMG SRC="/images/badges/poweredbymacosxserver.gif" HEIGHT="31" WIDTH="129" ALT="Powered by Mac OS X Server"></CENTER><BR>
+
+<P>
+<CENTER>
+<EM><FONT COLOR="#000000">
+Copyright &copy;1995-2004 by Ambrosia Software, Inc. - All rights reserved
+</FONT></EM>
+</CENTER>
+<P>
+</body></html>
