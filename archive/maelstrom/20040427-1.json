@@ -1,0 +1,802 @@
+  <!doctype html public "-//W3C//DTD HTML 4.0 Transitional//EN">
+  <html>
+  <head><title>Ambrosia Software, Inc. -- Maelstrom Files</title></head>
+  <BODY BGCOLOR="#000000" TEXT="#EEEEEE" LINK="#BFBFFF" ALINK="#BFBFFF" VLINK="#FFFFFF" LEFTMARGIN="0" TOPMARGIN="0" MARGINWIDTH="0" MARGINHEIGHT="0" BACKGROUND = "/images/ribbed_background.gif">
+
+<!-- BEGIN big placeholder table --><TABLE WIDTH="100%" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="49%" VALIGN="top" BACKGROUND="/images/new_navbar/bar_spacer.gif"> &nbsp; </TD><TD WIDTH="2%" VALIGN="top" ALIGN="center"><!-- BEGIN tabs --><TABLE WIDTH="600" BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD WIDTH="600" ALIGN="center" VALIGN="top"><TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0"><TR><TD VALIGN="bottom" ALIGN="center"><IMG WIDTH="72" HEIGHT="78" SRC="/images/new_navbar/ambrosia_logo_top.gif" ALT="Ambrosia" BORDER="0"></TD><TD WIDTH="500" VALIGN="middle" ALIGN="center">
+<TABLE WIDTH="100%" CELLSPACING="0" CELLPADDING="0" BORDER="0">
+<TR>
+<TD ALIGN="center" VALIGN="middle">
+<A HREF="/cgi-bin/showsell/showsell.pl?redirect=pop-pop_ad" TARGET="_blank"><IMG BORDER="0" ALT="Click here to try out pop-pop!" SRC="http://www.AmbrosiaSW.com/banners/pop-pop_ad.gif"></A>
+</TD>
+</TR>
+</TABLE>
+</TD></TR></TABLE></TD></TR><TR><TD WIDTH="600" ALIGN="center" VALIGN="top"><IMG WIDTH="14" HEIGHT="3" SRC="/images/new_navbar/below_ambrosia_logo.gif" ALT="---" BORDER="0"><IMG WIDTH="72" HEIGHT="35" SRC="/images/new_navbar/ambrosia_logo_bottom.gif" ALT="Software" BORDER="0"><A TITLE="Read Ambrosia news, articles, web-based discussion, and info on upcoming products" onMouseOver="status='Ambrosia news, articles, web-based discussion, and info on upcoming products'; return true;" onMouseOut="status=''; return true;" HREF="http://www.AmbrosiaSW.com/news/"><IMG WIDTH="100" HEIGHT="35" SRC="/images/new_navbar/news_tab_inactive.gif" ALT="news" BORDER="0"></A><A TITLE="Purchase Ambrosia products, upgrades, CDs, and other paraphernalia" onMouseOver="status='Purchase Ambrosia products, upgrades, CDs, and other paraphernalia'; return true;" onMouseOut="status=''; return true;" HREF="https://secure.AmbrosiaSW.com/cgi-bin/store/hazel.cgi"><IMG WIDTH="100" HEIGHT="35" SRC="/images/new_navbar/store_tab_inactive.gif" ALT="store" BORDER="0"></A><A TITLE="Check out Ambrosia anti-productivity software (games)" onMouseOver="status='Check out Ambrosia anti-productivity software (games)'; return true;" onMouseOut="status=''; return true;" HREF="http://www.AmbrosiaSW.com/games/"><IMG WIDTH="100" HEIGHT="35" SRC="/images/new_navbar/games_tab_active.gif" ALT="*games" BORDER="0"></A><A TITLE="Get info on Ambrosia productivity software" onMouseOver="status='Get info on Ambrosia productivity software'; return true;" onMouseOut="status=''; return true;" HREF="http://www.AmbrosiaSW.com/utilities/"><IMG WIDTH="100" HEIGHT="35" SRC="/images/new_navbar/utilities_tab_inactive.gif" ALT="utilities" BORDER="0"></A><A TITLE="Get help from Ambrosia tech support, product updates, and technical info" onMouseOver="status='Get help from Ambrosia tech support, product updates, and technical info'; return true;" onMouseOut="status=''; return true;" HREF="http://www.AmbrosiaSW.com/support/"><IMG WIDTH="100" HEIGHT="35" SRC="/images/new_navbar/support_tab_inactive.gif" ALT="support" BORDER="0"></A><IMG WIDTH="14" HEIGHT="3" SRC="/images/new_navbar/below_ambrosia_logo.gif" ALT="---" BORDER="0"></TD></TR><!-- END tabs --><!-- BEGIN subbar --><TR><TD WIDTH="600" VALIGN="top"><A TITLE="Check out Ambrosia anti-productivity software (games)" onMouseOver="status='Check out Ambrosia anti-productivity software (games)'; return true;" onMouseOut="status=''; return true;" HREF="http://www.AmbrosiaSW.com/games/"><IMG WIDTH="100" HEIGHT="17" SRC="/images/new_navbar/main_bar_inactive.gif" ALT="main" BORDER="0"></A><A TITLE="View action-oriented games from Ambrosia" onMouseOver="status='View action-oriented games from Ambrosia'; return true;" onMouseOut="status=''; return true;" HREF="/games/action.html"><IMG WIDTH="100" HEIGHT="17" SRC="/images/new_navbar/action_bar_inactive.gif" ALT="action" BORDER="0"></A><A TITLE="View arcade-style games from Ambrosia" onMouseOver="status='View arcade-style games from Ambrosia'; return true;" onMouseOut="status=''; return true;" HREF="/games/arcade.html"><IMG WIDTH="100" HEIGHT="17" SRC="/images/new_navbar/arcade_bar_inactive.gif" ALT="arcade" BORDER="0"></A><A TITLE="View strategy/puzzle games from  Ambrosia" onMouseOver="status='View strategy/puzzle games from  Ambrosia'; return true;" onMouseOut="status=''; return true;" HREF="/games/strategy.html"><IMG WIDTH="100" HEIGHT="17" SRC="/images/new_navbar/strategy_bar_inactive.gif" ALT="strategy" BORDER="0"></A><A TITLE="Go to the main Maelstrom web page" onMouseOver="status='Go to the main Maelstrom web page'; return true;" onMouseOut="status=''; return true;" HREF="/games/maelstrom/"><IMG WIDTH="200" HEIGHT="17" SRC="/images/new_navbar/maelstrom_bar_active.gif" ALT="Maelstrom" BORDER="0"></A></TD></TR><!-- END subbar --></TABLE></TD><TD WIDTH="49%" VALIGN="top" BACKGROUND="/images/new_navbar/bar_spacer.gif"> &nbsp; </TD></TR></TABLE><!-- END big placeholder table -->  <TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+  <TR><TD BGCOLOR="#000000" ALIGN="left" VALIGN="top">
+  
+<font face="Geneva, Verdana, Arial" size="1"><blockquote><h2>Maelstrom Files</h2></blockquote>
+
+<blockquote>View by: 
+<a href=./show.pl?product=maelstrom&category=*&page=1&display=name>Name</a>
+<b>Date</b>
+<a href=./show.pl?product=maelstrom&category=*&page=1&display=rating>Rating</a>
+<a href=./show.pl?product=maelstrom&category=*&page=1&display=downloads>Downloads</a>
+<a href=./show.pl?product=maelstrom&category=*&page=1&display=size>Size</a>
+</blockquote><blockquote><b>Newest Files, Page 1 of 2:</b></blockquote>
+
+<table width='100%' border=0 cellspacing=0 cellpadding=4>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> essentials -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=Maelstrom.bin'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Maelstrom.bin?path=maelstrom/essentials&file=Maelstrom.bin'><b>Maelstrom</b></a> - 1.12 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This Macintosh classic is what put Ambrosia on the map as the leading Macintosh shareware publisher. Maelstrom has received a four star rating from Macworld, the MacUser 1993 Best Shareware Game award, and the Shareware Industry Award for best game. Maelstrom also took first place in the 1994 Mac Home Journal Reader's Choice Awards.  With detailed color animation, four channels of digital sound, and smooth game play, Maelstrom takes full advantage of the Macintosh's multi-media capabilities. All the game needs is someone with guts and a thirst for glory in the pilot's seat.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>10/6/2000</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>85 (<a href="javascript:rateDlog('Maelstrom', 'maelstrom', 'essentials', 'Maelstrom.bin', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>34453 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Maelstrom.bin?path=maelstrom/essentials&file=Maelstrom.bin'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> essentials -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=Maelstrom_Update.bin'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Maelstrom_Update.bin?path=maelstrom/essentials&file=Maelstrom_Update.bin'><b>Maelstrom Update</b></a> - 318 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This updater brings Maelstrom up to Maelstrom 1.4.3, the latest version which contains a number of bug fixes and adds a few features. All of the files in the Maelstrom 1.4.3 Update should be extracted into your existing Maelstrom folder to properly upgrade Maelstrom to version 1.4.3.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>10/6/2000</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>60 (<a href="javascript:rateDlog('Maelstrom Update', 'maelstrom', 'essentials', 'Maelstrom_Update.bin', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>987 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Maelstrom_Update.bin?path=maelstrom/essentials&file=Maelstrom_Update.bin'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> essentials -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=Maelstrom%20Disk%201'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Maelstrom%20Disk%201?path=maelstrom/essentials&file=Maelstrom%20Disk%201'><b>Maelstrom Disk 1</b></a> - 1.44 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This file is disk image number 1 of 1 for the Maelstrom 1.4.3 installer. To run this installer, download this file, and then open disk number one. Double click on the installer, and follow the instructions you are given.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>10/6/2000</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>73 (<a href="javascript:rateDlog('Maelstrom Disk 1', 'maelstrom', 'essentials', 'Maelstrom Disk 1', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>2 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Maelstrom%20Disk%201?path=maelstrom/essentials&file=Maelstrom%20Disk%201'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=Baseball_Sprites.sea.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Baseball_Sprites.sea.hqx?path=maelstrom/addons&file=Baseball_Sprites.sea.hqx'><b>Baseball Sprites</b></a> - 288 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Are you a big fan of baseball? Getting a little tired of shooting rocks? Here are a set of sprites that are made in America.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>10/6/2000</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>N/A (<a href="javascript:rateDlog('Baseball Sprites', 'maelstrom', 'addons', 'Baseball_Sprites.sea.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>331 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Baseball_Sprites.sea.hqx?path=maelstrom/addons&file=Baseball_Sprites.sea.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=Battlestar.sea.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Battlestar.sea.hqx?path=maelstrom/addons&file=Battlestar.sea.hqx'><b>Battlestar</b></a> - 1.34 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Remember that really cool sci-fi show on TV back in the late '70s called &quot;Battlestar Galactica&quot;? Well I do, and this is a patch for Maelstrom that changes the sounds and some of the screens into Battlestar Galactica sounds and screens.   </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>10/5/2000</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>N/A (<a href="javascript:rateDlog('Battlestar', 'maelstrom', 'addons', 'Battlestar.sea.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>710 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Battlestar.sea.hqx?path=maelstrom/addons&file=Battlestar.sea.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=SimsponsSprites.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/SimsponsSprites.hqx?path=maelstrom/addons&file=SimsponsSprites.hqx'><b>SimsponsSprites</b></a> - 205 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This is a Maelstrom Sprites file I created using ResEdit...  These sprites are all from the Fox TV show The Simpsons... This file is best when used with the Simpsons Sounds file I created...  To use these files, just put your original Maelstrom Sounds/Sprites files in a different folder, and replace them with these ones...  Simspons Sounds (for Maelstrom) and Simspons Sprites (for Maelstrom)  were both created by Matt Webb, using Apple's free program called ResEdit, in 1995. alphasixty@earthlink.net  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>8/4/2000</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>60 (<a href="javascript:rateDlog('SimsponsSprites', 'maelstrom', 'addons', 'SimsponsSprites.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>1015 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/SimsponsSprites.hqx?path=maelstrom/addons&file=SimsponsSprites.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=SimpsonsSounds.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/SimpsonsSounds.hqx?path=maelstrom/addons&file=SimpsonsSounds.hqx'><b>SimpsonsSounds</b></a> - 739 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This is a Maelstrom Sounds file I created using ResEdit... It is all sounds from the Fox TV show The Simpsons...  I am pleased with how it turned out...   Matt Webb alphasixty@earthlink.net  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>8/4/2000</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>60 (<a href="javascript:rateDlog('SimpsonsSounds', 'maelstrom', 'addons', 'SimpsonsSounds.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>1099 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/SimpsonsSounds.hqx?path=maelstrom/addons&file=SimpsonsSounds.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=JaredSimpsonsSprites.sea.bin'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/JaredSimpsonsSprites.sea.bin?path=maelstrom/addons&file=JaredSimpsonsSprites.sea.bin'><b>JaredSimpsonsSprites</b></a> - 184 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> If you like the Simpsons you'll like these. They are real cool sprites like Chief Wiggum as the Steel Asteroid and the simpson family as the Asteroids try them Thanks.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>8/17/1999</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>100 (<a href="javascript:rateDlog('JaredSimpsonsSprites', 'maelstrom', 'addons', 'JaredSimpsonsSprites.sea.bin', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>1314 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/JaredSimpsonsSprites.sea.bin?path=maelstrom/addons&file=JaredSimpsonsSprites.sea.bin'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=Heavymetalstrom.sea.bin'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Heavymetalstrom.sea.bin?path=maelstrom/addons&file=Heavymetalstrom.sea.bin'><b>Heavymetalstrom</b></a> - 510 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Welcome to Heavy Metalstrom, that strange corner of the galaxy where old guitars and drums float aimlessly, accompanied by the loudest sounds you will ever hear!  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>6/10/1999</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>20 (<a href="javascript:rateDlog('Heavymetalstrom', 'maelstrom', 'addons', 'Heavymetalstrom.sea.bin', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>344 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Heavymetalstrom.sea.bin?path=maelstrom/addons&file=Heavymetalstrom.sea.bin'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=Price.Right.Maelstrom.sea.bin'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Price.Right.Maelstrom.sea.bin?path=maelstrom/addons&file=Price.Right.Maelstrom.sea.bin'><b>Price.Right.Maelstrom</b></a> - 893 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Get ready to Come On Down! for fantastic prizes and exciting merchandise! It's the fabulous 60 Minute Price Is Right Maelstrom!!!  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>3/26/1999</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>N/A (<a href="javascript:rateDlog('Price.Right.Maelstrom', 'maelstrom', 'addons', 'Price.Right.Maelstrom.sea.bin', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>396 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Price.Right.Maelstrom.sea.bin?path=maelstrom/addons&file=Price.Right.Maelstrom.sea.bin'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=BabylonMaelstromsounds.sea.bin'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/BabylonMaelstromsounds.sea.bin?path=maelstrom/addons&file=BabylonMaelstromsounds.sea.bin'><b>BabylonMaelstromsounds</b></a> - 608 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> [b]SOUND FILE[/b]This is a replacement sound file, containing sound clips from the Babylon 5 science fiction series, now being shown on TNT.  Sorry, I used up all my creativity in making the sound file. grin   </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>1/26/1999</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>80 (<a href="javascript:rateDlog('BabylonMaelstromsounds', 'maelstrom', 'addons', 'BabylonMaelstromsounds.sea.bin', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>234 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/BabylonMaelstromsounds.sea.bin?path=maelstrom/addons&file=BabylonMaelstromsounds.sea.bin'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=eighties.Maelstrom.sea.bin'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/eighties.Maelstrom.sea.bin?path=maelstrom/addons&file=eighties.Maelstrom.sea.bin'><b>eighties.Maelstrom</b></a> - 510 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Go get some change and enjoy the &quot;original&quot; version of Maelstrom! This replaces both the Maelstom Sprites and Sounds.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>11/3/1998</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>N/A (<a href="javascript:rateDlog('eighties.Maelstrom', 'maelstrom', 'addons', 'eighties.Maelstrom.sea.bin', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>155 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/eighties.Maelstrom.sea.bin?path=maelstrom/addons&file=eighties.Maelstrom.sea.bin'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=Ambitious_Sounds.sea.bin'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Ambitious_Sounds.sea.bin?path=maelstrom/addons&file=Ambitious_Sounds.sea.bin'><b>Ambitious Sounds</b></a> - 649 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> These sounds were taken from several versions of &quot;Ambitious&quot; by Wire. They were sampled at 11.127kHz, 8 bits, mono. The idea is that, as the game is played, a dynamic mix of the song is created. Cool, huh?   </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>7/11/1998</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>N/A (<a href="javascript:rateDlog('Ambitious Sounds', 'maelstrom', 'addons', 'Ambitious_Sounds.sea.bin', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>90 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Ambitious_Sounds.sea.bin?path=maelstrom/addons&file=Ambitious_Sounds.sea.bin'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=Glenns_Sprites.sea.bin'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Glenns_Sprites.sea.bin?path=maelstrom/addons&file=Glenns_Sprites.sea.bin'><b>Glenns Sprites</b></a> - 136 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> An almost TOTAL make over for Maelstrom 1.4.3, destroy alien eggs and grotesque fetuses in a new ultra modern ship. You're sure to enjoy all the new 3D ray-traced sprites.    </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>7/11/1998</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>N/A (<a href="javascript:rateDlog('Glenns Sprites', 'maelstrom', 'addons', 'Glenns_Sprites.sea.bin', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>253 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Glenns_Sprites.sea.bin?path=maelstrom/addons&file=Glenns_Sprites.sea.bin'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=Belch.sea.bin'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Belch.sea.bin?path=maelstrom/addons&file=Belch.sea.bin'><b>Belch</b></a> - 380 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Every sound has been replaced with a belch except one, and that one has been replaced with an angry dog sound. Don't ask, I don't know, it's very wacky.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>6/10/1998</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>30 (<a href="javascript:rateDlog('Belch', 'maelstrom', 'addons', 'Belch.sea.bin', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>584 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Belch.sea.bin?path=maelstrom/addons&file=Belch.sea.bin'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=MST3K.sea.bin'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/MST3K.sea.bin?path=maelstrom/addons&file=MST3K.sea.bin'><b>MST3K</b></a> - 787 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Have you ever wanted to play Maelstrom and watch Mystery Science Theater 3000 at the same time? Well, Now you can, sort of! Try it, it's fun. Some of these sounds are kinda big, so you'll need to increase the memory settings.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>6/8/1998</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>N/A (<a href="javascript:rateDlog('MST3K', 'maelstrom', 'addons', 'MST3K.sea.bin', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>188 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/MST3K.sea.bin?path=maelstrom/addons&file=MST3K.sea.bin'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=Smiley_sprites.sea.bin'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Smiley_sprites.sea.bin?path=maelstrom/addons&file=Smiley_sprites.sea.bin'><b>Smiley sprites</b></a> - 153 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> You ever wish the asteroids in Maelstrom were little smiley faces? You too?!? Well, here it is. The sprites file you've been waiting for. Just rename the original sprite file &quot;Original Sprites&quot;, and put these sprites in your Maelstrom folder and you are set. No mess, no fee (but please do pay your shareware fee to Ambrosia), no more boring rocks.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>3/30/1998</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>60 (<a href="javascript:rateDlog('Smiley sprites', 'maelstrom', 'addons', 'Smiley_sprites.sea.bin', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>107 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Smiley_sprites.sea.bin?path=maelstrom/addons&file=Smiley_sprites.sea.bin'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=Dr_Who_Maelstrom_Snds.sea.bin'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Dr_Who_Maelstrom_Snds.sea.bin?path=maelstrom/addons&file=Dr_Who_Maelstrom_Snds.sea.bin'><b>Dr Who Maelstrom Snds</b></a> - 783 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This file contains sounds from the British Sci-Fi TV show, Doctor Who. I saw Star Wars and Star Trek here so I thought, &quot;Why not Doctor Who?&quot;. Well here it is.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>2/5/1998</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>N/A (<a href="javascript:rateDlog('Dr Who Maelstrom Snds', 'maelstrom', 'addons', 'Dr_Who_Maelstrom_Snds.sea.bin', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>132 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Dr_Who_Maelstrom_Snds.sea.bin?path=maelstrom/addons&file=Dr_Who_Maelstrom_Snds.sea.bin'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=Tori_Sounds.sea.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Tori_Sounds.sea.hqx?path=maelstrom/addons&file=Tori_Sounds.sea.hqx'><b>Tori Sounds</b></a> - 622 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This file contains sound bites of Tori Amos replacing the standard sounds with cooler Tori ones.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>10/3/1997</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>N/A (<a href="javascript:rateDlog('Tori Sounds', 'maelstrom', 'addons', 'Tori_Sounds.sea.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>62 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Tori_Sounds.sea.hqx?path=maelstrom/addons&file=Tori_Sounds.sea.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=Moosestrom.sea.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Moosestrom.sea.hqx?path=maelstrom/addons&file=Moosestrom.sea.hqx'><b>Moosestrom</b></a> - 777 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Well, I think it qualifies as an odd thing. Full of strange, original, fantastic animation. Also available at http://homepages.gs.net/~twomoose/ernge.html  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>7/25/1997</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>60 (<a href="javascript:rateDlog('Moosestrom', 'maelstrom', 'addons', 'Moosestrom.sea.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>179 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Moosestrom.sea.hqx?path=maelstrom/addons&file=Moosestrom.sea.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=Shining_Maelstrom.sea.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Shining_Maelstrom.sea.hqx?path=maelstrom/addons&file=Shining_Maelstrom.sea.hqx'><b>Shining Maelstrom</b></a> - 885 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Here is the weirdly successful marriage of the killer game from Ambrosia Labs, Maelstrom, and the &quot;killer&quot; movie from Stanley Kubrick, &quot;The Shining&quot;! Hear Jack spew loving tidbits like &quot;Shoveling out driveways? Work in a carwash?&quot; while Wendy screams, screams, and screams again.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/20/1997</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>73 (<a href="javascript:rateDlog('Shining Maelstrom', 'maelstrom', 'addons', 'Shining_Maelstrom.sea.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>259 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Shining_Maelstrom.sea.hqx?path=maelstrom/addons&file=Shining_Maelstrom.sea.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=Beavis_Butthead_Sounds.sea.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Beavis_Butthead_Sounds.sea.hqx?path=maelstrom/addons&file=Beavis_Butthead_Sounds.sea.hqx'><b>Beavis Butthead Sounds</b></a> - 1.06 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> It had to happen. It just had to. Yes! the Beavis and Butthead sound collection for Maelstrom. Hear your favorite &quot;Huh - uhh - uhuh&quot; in ways you never imagined.   </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/20/1997</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>N/A (<a href="javascript:rateDlog('Beavis Butthead Sounds', 'maelstrom', 'addons', 'Beavis_Butthead_Sounds.sea.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>230 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Beavis_Butthead_Sounds.sea.hqx?path=maelstrom/addons&file=Beavis_Butthead_Sounds.sea.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=Star_Wars_Sprites.sea.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Star_Wars_Sprites.sea.hqx?path=maelstrom/addons&file=Star_Wars_Sprites.sea.hqx'><b>Star Wars Sprites</b></a> - 170 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> &quot;Finally, Star Wars Sprites for Maelstrom! Use the Millennium Falcon to Destroy asteroids, X-Wings, Imperial Shuttles, and the Death Star with a little help from Yoda and the droids, and a special appearance by Boba Fett.&quot;  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>10/16/1996</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>N/A (<a href="javascript:rateDlog('Star Wars Sprites', 'maelstrom', 'addons', 'Star_Wars_Sprites.sea.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>1344 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Star_Wars_Sprites.sea.hqx?path=maelstrom/addons&file=Star_Wars_Sprites.sea.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=Stooge_Sounds.sea.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Stooge_Sounds.sea.hqx?path=maelstrom/addons&file=Stooge_Sounds.sea.hqx'><b>Stooge Sounds</b></a> - 662 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Author's Notes: I created these sounds for Maelstrom because I saw something lacking in the list of available slternative sounds for the game. With &quot;The Simpsons&quot; and &quot;Blazing Saddles&quot; sounds out there, how could someone overlook the Stooges?  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>7/13/1996</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>N/A (<a href="javascript:rateDlog('Stooge Sounds', 'maelstrom', 'addons', 'Stooge_Sounds.sea.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>114 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Stooge_Sounds.sea.hqx?path=maelstrom/addons&file=Stooge_Sounds.sea.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=Coloroids.sea.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Coloroids.sea.hqx?path=maelstrom/addons&file=Coloroids.sea.hqx'><b>Coloroids</b></a> - 242 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> This file is an altered version of the original Maelstrom sprites. In this recolored version, you defend a gold ship powered by a blue thruster flame against purple, red, and aqua asteroids. Explosions and other elements have also been recolored.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>7/13/1996</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>84 (<a href="javascript:rateDlog('Coloroids', 'maelstrom', 'addons', 'Coloroids.sea.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>305 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Coloroids.sea.hqx?path=maelstrom/addons&file=Coloroids.sea.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=Trek_Sprites.sea.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Trek_Sprites.sea.hqx?path=maelstrom/addons&file=Trek_Sprites.sea.hqx'><b>Trek Sprites</b></a> - 229 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Finally! Star Trek Sprites for Maelstrom. Ever wanted to do dough-nuts in the Enterprise? Ever wanted to blow away a Borg ship? Take the conn, ensign...  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>7/13/1996</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>60 (<a href="javascript:rateDlog('Trek Sprites', 'maelstrom', 'addons', 'Trek_Sprites.sea.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>666 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Trek_Sprites.sea.hqx?path=maelstrom/addons&file=Trek_Sprites.sea.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=Trek_Sounds.sea.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Trek_Sounds.sea.hqx?path=maelstrom/addons&file=Trek_Sounds.sea.hqx'><b>Trek Sounds</b></a> - 1.49 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Finally! Star Trek Sounds for Maelstrom. This collection of sounds is only for those at the final frontier of Maelstrom playing. You'll need to allocate extra memory though.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>5/2/1996</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>60 (<a href="javascript:rateDlog('Trek Sounds', 'maelstrom', 'addons', 'Trek_Sounds.sea.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>493 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Trek_Sounds.sea.hqx?path=maelstrom/addons&file=Trek_Sounds.sea.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=Claivcle_Super_Sounds.sit.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Claivcle_Super_Sounds.sit.hqx?path=maelstrom/addons&file=Claivcle_Super_Sounds.sit.hqx'><b>Claivcle Super Sounds</b></a> - 973 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Jimi Hendrix, Stone Temple Pilots, Nine Inch Nails and U2 sounds sampled by clavicle. All the other sounds scraped off of other files.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>3/6/1996</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>N/A (<a href="javascript:rateDlog('Claivcle Super Sounds', 'maelstrom', 'addons', 'Claivcle_Super_Sounds.sit.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>109 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Claivcle_Super_Sounds.sit.hqx?path=maelstrom/addons&file=Claivcle_Super_Sounds.sit.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=Maestrom_Classic_Sounds.sea.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Maestrom_Classic_Sounds.sea.hqx?path=maelstrom/addons&file=Maestrom_Classic_Sounds.sea.hqx'><b>Maestrom Classic Sounds</b></a> - 1.32 mb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> These classic sounds are taken from a variety of places. From classic rock to classic sitcoms, just about every fetish is satisfied with this set of sounds. These sounds also require more memory for Maelstrom.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>2/22/1996</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>N/A (<a href="javascript:rateDlog('Maestrom Classic Sounds', 'maelstrom', 'addons', 'Maestrom_Classic_Sounds.sea.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>142 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Maestrom_Classic_Sounds.sea.hqx?path=maelstrom/addons&file=Maestrom_Classic_Sounds.sea.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=Mixed_Maelstrom_Sounds.sit.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Mixed_Maelstrom_Sounds.sit.hqx?path=maelstrom/addons&file=Mixed_Maelstrom_Sounds.sit.hqx'><b>Mixed Maelstrom Sounds</b></a> - 847 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> The sounds file is a mixed bag of two or three of the sound files available here. It makes for an interesting mix.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>2/22/1996</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>N/A (<a href="javascript:rateDlog('Mixed Maelstrom Sounds', 'maelstrom', 'addons', 'Mixed_Maelstrom_Sounds.sit.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>47 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Mixed_Maelstrom_Sounds.sit.hqx?path=maelstrom/addons&file=Mixed_Maelstrom_Sounds.sit.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=222222>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=222222>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=Modified_Maelstrom_Sprites.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Modified_Maelstrom_Sprites.hqx?path=maelstrom/addons&file=Modified_Maelstrom_Sprites.hqx'><b>Modified Maelstrom Sprites</b></a> - 242 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Psychedilia infiltrates your Mac. Maelstrom has an unusual look. Wow ... What's going on, everything looks so different. Oh ... nothing to worry about, your Maelstrom sprites have been modified.        </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=222222>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>2/22/1996</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>N/A (<a href="javascript:rateDlog('Modified Maelstrom Sprites', 'maelstrom', 'addons', 'Modified_Maelstrom_Sprites.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>143 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Modified_Maelstrom_Sprites.hqx?path=maelstrom/addons&file=Modified_Maelstrom_Sprites.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=222222>&nbsp;</td></tr>
+        <tr><td width="4%" bgcolor=111111>&nbsp;</td>
+        <td width="92%" valign=top bgcolor=111111>
+          <table border=0 cellspacing=0 cellpadding=2>
+          <tr><td colspan=2><font face="Geneva, Verdana, Arial" size="1"> addons -  <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&file=Monty_Maelstrom.sea.hqx'><IMG SRC=/images/icons/genericfile.gif HEIGHT=16 WIDTH=16 ALIGN=middle BORDER=0></A> - <a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Monty_Maelstrom.sea.hqx?path=maelstrom/addons&file=Monty_Maelstrom.sea.hqx'><b>Monty Maelstrom</b></a> - 699 kb </td></tr>
+          <tr><td width=30px></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"> Are you a Knight that says &quot;Nee?&quot; You will be. Does your brain hurt? It will. This sound file takes &quot;I move for no man&quot; to a new level.  </font></td>
+          </tr></table>
+        </td>
+        <td align=left valign=top bgcolor=111111>
+        <table border=0 cellspacing=0 cellpadding=2>
+        <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Date:</font></td><td><font face="Geneva, Verdana, Arial" size="1"><nobr>2/22/1996</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> Rating:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>60 (<a href="javascript:rateDlog('Monty Maelstrom', 'maelstrom', 'addons', 'Monty_Maelstrom.sea.hqx', '')">Rate It</a>)</nobr></font></td></tr>
+          <tr><td align=right><font face="Geneva, Verdana, Arial" size="1"> DLs:</font></td>
+          <td><font face="Geneva, Verdana, Arial" size="1"><nobr>477 (<a href='http://www.ambrosiasw.com/cgi-bin/vftp/dl-redirect.pl/Monty_Maelstrom.sea.hqx?path=maelstrom/addons&file=Monty_Maelstrom.sea.hqx'>Get It</a>)</nobr></font></td></tr>
+</table>
+</td>
+<td width='4%' bgcolor=111111>&nbsp;</td></tr>
+</table>
+
+<BLOCKQUOTE><b>
+Result Pages: 1</a> <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&page=2'>2</a> <a href='/cgi-bin/vftp/show.pl?product=maelstrom&category=*&display=date&page=2'>Next &gt;&gt;</a>
+</b></blockquote><script language="JavaScript">
+//<!--
+function sendDlog () {
+    var winProps = 'toolbar=0,resizable=1,scrollbars=1,location=0,directories=0,menubar=0,width=620,height=400';
+    var winName = ('sendDlog');
+    var w = window.open ('', winName, winProps);
+	    
+    w.document.close();
+
+    w.document.writeln ('<head><title>Submit a File</title></head><BODY BGCOLOR="#FFFFFF" BACKGROUND = "/images/ribbed_background.gif">');
+
+w.document.writeln ('<CENTER>');
+w.document.writeln ('<TABLE BORDER="0" CELLPADDING="8" BORDER="0" CELLSPACING="0">');
+w.document.writeln ('<TR>');
+w.document.writeln ('<TD ALIGN="center" VALIGN="middle">');
+w.document.writeln ('<IMG SRC="/images/buttons/1button.gif" WIDTH="55" HEIGHT="55" BORDER="0" ALT="1">');
+w.document.writeln ('</TD>');
+w.document.writeln ('<TD ALIGN="left" VALIGN="top">');
+w.document.writeln ('<FONT SIZE="4" FACE="Helvetica" color="#000000">');
+w.document.writeln ('<B>Please test and proofread the files you\'re submitting</B>');
+w.document.writeln ('</FONT><BR>');
+w.document.writeln ('<FONT SIZE="1" FACE="Geneva, Arial, Helvetica" color="#000000">');
+w.document.writeln ('Keep in mind that thousands of people may be downloading and using the files you submit here.  Try to present yourself as best you can by testing your submission on a number of machines, proof-reading any text, and perhaps having others do a sanity-check on it before you submit it.  It\'s far easier to catch mistakes ahead of time than to try to correct them after the fact.<BR>');
+w.document.writeln ('</FONT>');
+w.document.writeln ('</TD>');
+w.document.writeln ('</TR>');
+w.document.writeln ('<TR>');
+w.document.writeln ('<TD ALIGN="center" VALIGN="middle">');
+w.document.writeln ('<IMG SRC="/images/buttons/2button.gif" WIDTH="55" HEIGHT="55" BORDER="0" ALT="2">');
+w.document.writeln ('</TD>');
+w.document.writeln ('<TD ALIGN="left" VALIGN="top">');
+w.document.writeln ('<FONT SIZE="4" FACE="Helvetica" color="#000000">');
+w.document.writeln ('<B>Compress your files with Stuffit or Compact Pro before submitting</B>');
+w.document.writeln ('</FONT><BR>');
+w.document.writeln ('<FONT SIZE="1" FACE="Geneva, Arial, Helvetica" color="#000000">');
+w.document.writeln ('You must use a program such as <A HREF="http://www.aladdinsys.com/expander/expander_mac.html">StuffIt</A> or <A HREF="http://hyperarchive.lcs.mit.edu/HyperArchive/Archive/cmp/compact-pro-151.hqx">Compact Pro</A> to compress your files before you can submit them.  Files compressed with StuffIt should be suffixed with <B>.sit</B>, files compressed with Compact Pro should be suffixed with <B>.cpt</B>, and self-extracting archives created by either program should be suffixed with <B>.sea</B>.<BR>');
+w.document.writeln ('</FONT>');
+w.document.writeln ('</TD>');
+w.document.writeln ('</TR>');
+w.document.writeln ('<TR>');
+w.document.writeln ('<TD ALIGN="center" VALIGN="middle">');
+w.document.writeln ('<IMG SRC="/images/buttons/3button.gif" WIDTH="55" HEIGHT="55" BORDER="0" ALT="3">');
+w.document.writeln ('</TD>');
+w.document.writeln ('<TD ALIGN="left" VALIGN="top">');
+w.document.writeln ('<FONT SIZE="4" FACE="Helvetica" color="#000000">');
+w.document.writeln ('<B>Use MacBinary or HQX encoding on your files before submitting them</B>');
+w.document.writeln ('</FONT><BR>');
+w.document.writeln ('<FONT SIZE="1" FACE="Geneva, Arial, Helvetica" color="#000000">');
+w.document.writeln ('After you\'ve compressed your files as outlined above, please encode them using a program like <A HREF="http://hyperarchive.lcs.mit.edu/HyperArchive/Archive/cmp/mac-binary-101.hqx">MacBinary</A> or <A HREF="http://hyperarchive.lcs.mit.edu/HyperArchive/Archive/cmp/binhex-50.hqx">BinHex</A> (StuffIt and other products can also HQX-encode files) before you submit them.  This will allow others to download and decompress your files more easily and reduce the risk of the archives being corrupted in transit.  MacBinary-encoded files should be suffixed with <B>.bin</B>, HQX-encoded files should be suffixed with <B>.hqx</B>.<BR>');
+w.document.writeln ('</FONT>');
+w.document.writeln ('</TD>');
+w.document.writeln ('</TR>');
+w.document.writeln ('<TR>');
+w.document.writeln ('<TD ALIGN="center" VALIGN="middle">');
+w.document.writeln ('<IMG SRC="/images/buttons/4button.gif" WIDTH="55" HEIGHT="55" BORDER="0" ALT="4">');
+w.document.writeln ('</TD>');
+w.document.writeln ('<TD ALIGN="left" VALIGN="top">');
+w.document.writeln ('<FONT SIZE="4" FACE="Helvetica" color="#000000">');
+w.document.writeln ('<B>Enter a good name and description for your submission</B>');
+w.document.writeln ('</FONT><BR>');
+w.document.writeln ('<FONT SIZE="1" FACE="Geneva, Arial, Helvetica" color="#000000">');
+w.document.writeln ('Try to give your submission an appropriate name (eg <B>MyCoolPlugin.sit.bin</B> -- avoid the use of spaces, quotes, apostrophes, and other non-alphanumeric characters), and a description that is verbose enough to give people a good idea what the file is about, but also succinct enough that people will be able to read it quickly and easily.  Including a version number and/or release date, as well as the author\'s name in the description is helpful, too.<BR>');
+w.document.writeln ('</FONT>');
+w.document.writeln ('</TD>');
+w.document.writeln ('</TR>');
+w.document.writeln ('<TR>');
+w.document.writeln ('<TD ALIGN="left" VALIGN="top" COLSPAN="2">');
+w.document.writeln ('<FONT SIZE="1" FACE="Geneva, Arial, Helvetica" color="#000000">');
+w.document.writeln ('Once you\'ve done all that, click the <B>Submit</B> button below, and away she goes!  Once your file has been submitted, it will be reviewed by a site ');
+w.document.writeln ('administrator.  After review the admin will make your file available for ');
+w.document.writeln ('download in the appropriate directory of the add ons page.  ');
+w.document.writeln ('If you don\'t see your file right away, please be patient.  Thanks!');
+w.document.writeln ('</FONT>');
+w.document.writeln ('</TD>');
+w.document.writeln ('</TR>');
+w.document.writeln ('</TABLE>');
+w.document.writeln ('</CENTER>');
+    w.document.writeln ('<font face="Geneva, Verdana, Arial" size="1">');
+
+    w.document.writeln ('<form enctype="multipart/form-data" action=http://www.ambrosiasw.com/cgi-bin/vftp/upload.pl method=post>');
+    w.document.writeln ('<p><B>File:</B> <input name=sentfile type=file></p>');
+    w.document.writeln ('<p><b>Description</b>:</p>'); 
+    w.document.writeln ('<p><textarea cols=90 rows=8 name=description autowrap>');
+    w.document.writeln ('</textarea></p>'); 
+    w.document.writeln ('<p>For this product: <select name=target>'); 
+    w.document.writeln ('<option  value=aki>aki');
+    w.document.writeln ('<option  value=apeiron>apeiron');
+    w.document.writeln ('<option  value=ares>ares');
+    w.document.writeln ('<option  value=avara>avara');
+    w.document.writeln ('<option  value=barrack>barrack');
+    w.document.writeln ('<option  value=bt>bt');
+    w.document.writeln ('<option  value=chiral>chiral');
+    w.document.writeln ('<option  value=coldstone>coldstone');
+    w.document.writeln ('<option  value=colorswitch>colorswitch');
+    w.document.writeln ('<option  value=cythera>cythera');
+    w.document.writeln ('<option  value=dr>dr');
+    w.document.writeln ('<option  value=eclipse>eclipse');
+    w.document.writeln ('<option  value=ev>ev');
+    w.document.writeln ('<option  value=evn>evn');
+    w.document.writeln ('<option  value=evo>evo');
+    w.document.writeln ('<option  value=ferazel>ferazel');
+    w.document.writeln ('<option  value=harry>harry');
+    w.document.writeln ('<option selected value=maelstrom>maelstrom');
+    w.document.writeln ('<option  value=mr>mr');
+    w.document.writeln ('<option  value=pog>pog');
+    w.document.writeln ('<option  value=pop-pop>pop-pop');
+    w.document.writeln ('<option  value=ragnarok>ragnarok');
+    w.document.writeln ('<option  value=slithereens>slithereens');
+    w.document.writeln ('<option  value=snapzpro>snapzpro');
+    w.document.writeln ('<option  value=snapzprox>snapzprox');
+    w.document.writeln ('<option  value=swoop>swoop');
+    w.document.writeln ('<option  value=uplink>uplink');
+    w.document.writeln ("</select><input type=submit value=Submit></p></form></body>");
+    w.document.close();
+    return;
+    }
+
+function rmmvDlog (cleanfile, product, category, file) {
+    var winProps = 'toolbar=0,location=0,directories=0,menubar=0,width=300,height=120';
+    var winName = ('rmmvDlog');
+    var w = window.open ('', winName, winProps);
+    w.document.close();
+    w.document.writeln ('<head><title>Move or Delete "'+cleanfile+'"</title></head><body bgcolor=#000000 link=#BFBFFF alink=#BFBFFF vlink=#FFFFFF text=#EEEEEE background="">');
+    w.document.writeln ('<font face="Geneva, Verdana, Arial" size="1"><b>Move or Delete "'+cleanfile+'"</b>');
+    w.document.writeln ('<form action="http://www.ambrosiasw.com/cgi-bin/vftp/rm-mv.pl" method=post>');
+    w.document.writeln ('<input type=hidden name=product value="'+product+'">'); 
+    w.document.writeln ('<input type=hidden name=category value="'+category+'">'); 
+    w.document.writeln ('<input type=hidden name=file value="'+file+'">'); 
+    w.document.writeln ('<p>Password: <input type=password name=pass size=8></p>'); 
+    w.document.writeln ('<select name=target><option value=remove>Delete'); 
+    w.document.writeln ('<option value=addons>addons');
+    w.document.writeln ('<option value=essentials>essentials');
+    w.document.writeln ('</select>'); 
+    w.document.writeln ('<input type=submit value="Do It"></form></body></html>');
+    w.document.close();
+    return;
+    }
+
+function rateDlog (cleanfile, product, category, file, admin) {
+    var winProps = 'toolbar=0,location=0,directories=0,menubar=0,width=220,height=120';
+    var winName = ('rateDlog');
+    var w = window.open ('', winName, winProps);
+    w.document.close();
+    w.document.writeln ('<head><title>Rate "'+cleanfile+'"</title></head><body bgcolor=#000000 link=#BFBFFF alink=#BFBFFF vlink=#FFFFFF text=#EEEEEE background="">');
+    w.document.writeln ('<font face="Geneva, Verdana, Arial" size="1"><b>Rate "'+cleanfile+'"</b>');
+    w.document.writeln ('<form action="http://www.ambrosiasw.com/cgi-bin/vftp/rating.pl" method=post>');
+    w.document.writeln ('<input type=hidden name=product value="'+product+'">'); 
+    w.document.writeln ('<input type=hidden name=category value="'+category+'">'); 
+    w.document.writeln ('<input type=hidden name=file value="'+file+'">'); 
+    w.document.writeln ('<p><select name=vote>'); 
+    w.document.writeln ('<option value="">Choose a Value<option value=5>5 (Excellent)<option value=4>4<option value=3>3<option value=2>2<option value=1>1 (Terrible)');
+    if (admin) { 
+      w.document.writeln ('<option value="reset">Reset'); 
+      }
+    w.document.writeln ('</select><input type=submit value="Rate It"></p>');
+    if (admin) { 
+      w.document.writeln ('Password for Reset: <input type=password name=pass size=8>'); 
+      }
+    w.document.writeln ('</form></body></html>'); 
+    w.document.close();
+    return;
+    }
+
+function descDlog (cleanfile, product, category, file, description) {
+    var winProps = 'toolbar=0,location=0,directories=0,menubar=0,width=500,height=240';
+    var winName = ('descDlog');
+    var w = window.open ('', winName, winProps);
+    w.document.close();
+    w.document.writeln ('<head><title>Describe "'+cleanfile+'"</title></head><body bgcolor=#000000 link=#BFBFFF alink=#BFBFFF vlink=#FFFFFF text=#EEEEEE background="">');
+    w.document.writeln ('<font face="Geneva, Verdana, Arial" size="1"><b>Describe "'+cleanfile+'"</b>');
+    w.document.writeln ('<form action=http://www.ambrosiasw.com/cgi-bin/vftp/describe.pl method=post>');
+    w.document.writeln ('<input type=hidden name=product value="'+product+'">'); 
+    w.document.writeln ('<input type=hidden name=category value="'+category+'">'); 
+    w.document.writeln ('<input type=hidden name=file value="'+file+'">'); 
+    w.document.writeln ('<p><textarea cols=72 rows=8 name=description autowrap>');
+    w.document.writeln (description);
+    w.document.writeln ('</textarea></p>'); 
+    w.document.writeln ('<p>Password: <input type=password name=pass size=8></p>'); 
+    w.document.writeln ('<input type=submit value="Enter Description"></form></body></html>');
+    w.document.close();
+    return;
+    }
+    
+//-->
+</script>
+
+</TD></TR><TR><TD BACKGROUND='/images/up_gradient.gif' WIDTH='100%' HEIGHT='8' COLSPAN='2'><IMG SRC='/images/small_invisible_spacer.gif' WIDTH='4' HEIGHT='4'></TD></TR></TABLE><BR><CENTER><IMG SRC="/images/badges/poweredbymacosxserver.gif" HEIGHT="31" WIDTH="129" ALT="Powered by Mac OS X Server"></CENTER><BR>
+<P>
+<CENTER>
+<EM><FONT COLOR="#000000">
+Copyright &copy;1995-2004 by Ambrosia Software, Inc. - All rights reserved
+</FONT></EM>
+</CENTER>
+<P>
+</body></html>
