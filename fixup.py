@@ -14,8 +14,8 @@ FILE = re.compile(r"[^/]*/\d+_(.*)")
 DATE = re.compile(r"\d+/\d+/\d+")
 
 for game in sys.argv[1:]:
+    print(game)
     missing = {}
-    already = {}
     with open(f"json/{game}.json") as f:
         j = json.load(f, object_pairs_hook=collections.OrderedDict)
     for k, v in j.items():
@@ -24,8 +24,6 @@ for game in sys.argv[1:]:
         filepath = urllib.parse.unquote(FILE.match(v["filepath"]).group(1))
         if v["date"] == LOST:
             missing[filepath] = v
-        else:
-            already[filepath] = v
 
     found = {}
     for path in glob.glob(f"archive/{game}/*"):
@@ -50,12 +48,6 @@ for game in sys.argv[1:]:
                 found[filepath] = missing[filepath]
                 found[filepath]["date"] = date
                 del(missing[filepath])
-            elif filepath in found:
-                pass  # found in multiple archives, that’s OK
-            elif filepath in already:
-                pass  # already fixed in the source JSON, that’s OK
-            else:
-                print("WARNING: found unknown download %s" % filepath)
 
     if os.path.isfile(f"manual/{game}.tsv"):
         with open(f"manual/{game}.tsv") as f:
@@ -68,12 +60,6 @@ for game in sys.argv[1:]:
                     found[filepath] = missing[filepath]
                     found[filepath]["date"] = date
                     del(missing[filepath])
-                elif filepath in found:
-                    pass  # found in multiple archives, that’s OK
-                elif filepath in already:
-                    pass  # already fixed in the source JSON, that’s OK
-                else:
-                    print("WARNING: unknown manual entry %s" % filepath)
 
     if found:
         print()
